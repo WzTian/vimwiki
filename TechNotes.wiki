@@ -1,0 +1,9 @@
+=Behold:=
+- ChakraLinux 试用
+- VimWiki 常用指令
+- DisQus 配置 
+- VimIM 体验 
+- [[调教qmmp cpu 占用，cue转码]]
+- [[Vim 批量诠释]]
+
+[[index|HOME]]  

@@ -1,0 +1,21 @@
+=将!VimWiki托管在github上=
+
+网址 http://wztian.github.com 
+git 还
+不熟，慢慢学习。
+
+====更新====
+注册了 [http://wztianucb.tk  wztianucb.tk]这个域名，
+本来注册了 wztian.tk 确认邮件死活发不过来，log in 
+一看，账户里没有这个域名，再注册显示已被占用……只好退而求其次。
+
+ps.github的邮件提醒有点恼人啊，我的blackberry滴滴响个不停……
+
+[[diary|BACK]]  [[../index|HOME]]
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>

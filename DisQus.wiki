@@ -1,0 +1,55 @@
+%title Disqus 配置
+
+
+= Disqus 配置=
+
+为了不在wiki里加太多的html/javascript，我用了两个外置脚本：
+{{{class:"brush:javascript"
+    //comment.js
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'wztianblog'; // required: replace example with your forum shortname
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+}}}
+{{{class:"brush:javascript"
+    //count.js
+    var disqus_shortname = 'wztianblog';
+
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = 'http://' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+}}}
+
+加了两个snippet：(discard the spaces in tags and urls)
+{{{
+snippet comment
+	< div id="disqus_thread"></ div>
+	< script type="text/javascript" src="comment.js">
+	< /script>
+	< noscript>Please enable !JavaScript to view the < a href="htt p://disqus.com/ ?ref_no script">comments powered by Disqus.</ a ></ noscript >
+	< a href="http:/ /dis qus.com" class="dsq-brlink">blog comments powered by < span class="logo-disqus">Disqus</ span ></ a >
+
+snippet count
+	< script type="text/javascript" src="count.js">
+	< /script>
+}}}
+
+在~/.vimrc里加了一行：
+`let g:vimwiki_valid_html_tags='b,i,s,u,sub,sup,kbd,br,hr,div,del,code,span,a,script,noscript'`
+
+blog:datetime=2011/07/19 21:54:27:tags=
+[[index|HOME]]   TechNotes
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>

@@ -1,0 +1,31 @@
+%title 初到伯克利
+
+
+= 初到伯克利=
+
+13个小时的飞行还是比较疲惫的，经济舱本来就没多少空间，一边坐着一个人高马大的老先生，脚下放着一个巨大的背包，腾挪之间不由得捉襟见肘，睡也睡不踏实
+。想看书，两侧熟睡的两位未免让我开灯时心里不安。
+
+入关排队颇有罗湖口岸的风采，只是比之后者中香港居民的潇洒自如，此处的美国公民们的排队之苦，与我们并无二致。
+
+Bayporter 不是机场官方的服务，找起来不是太直观。不过好在一下到停车场就有一辆雄壮威武，名为七人面的，实似悍马路虎的大家伙恰好赶到，
+免了我再去彷徨等待。
+
+旧金山的路坡度较大，且道路前行的切向、法向都有倾角，不习惯的话会略感惊悚。
+
+到了 Stern Hall，遇见一群中国学生在 check in，感觉有些怪异。
+
+搭好窝后，在外面转了一圈，找了找 I House 和以后上课的地方，时间关系，没找全，明天继续。
+
+blog:datetime=2011/08/14 21:57:54:tags=Berkeley
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+

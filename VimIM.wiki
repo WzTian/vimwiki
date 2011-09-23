@@ -1,0 +1,25 @@
+%title Vimim 体验
+
+
+= Vimim 体验=
+
+云输入法稍卡，本地拼音尚可。这个东西作者介绍的云山雾罩的，自己还要探索。
+
+~~BTW,vimim 与 snipmate 快捷键有冲突，把vimim.vim里5501,5502行里的Tab 改成C-Tab,可暂时解决这个问题（决字打不出来…………）。~~
+~~问题尚未解决。~~
+莫名其妙又好了……困惑。
+
+ 
+
+blog:datetime=2011/07/20 00:04:25:tags=vim
+
+[[index|HOME]]   TechNotes
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
+

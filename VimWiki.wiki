@@ -1,0 +1,73 @@
+=Part of Vimwiki Quick Reference=
+
+常用指令，作备忘之用。
+
+===Text styles===
+{{{ 
+    *text* bold 
+    _text_ italic
+    ~~text~~ strikeout
+    ,,sub,,text^super^ 上下标
+    `code`  monospaced code
+}}}
+
+===Headings and breaks===
+{{{
+    =text=  head level 1
+    ==text==  head level 2
+    :                  :
+    ======text======  head level 6
+    (empty line) para break
+    <  br  > line break(ignore the spaces.)
+    ---- horizontal line
+}}}
+
+===Lists tables quotations and code blocks===
+{{{
+    * item  bulleted list
+    - item  bulleted list
+    # item  numbered list
+    term:: definition  definition list
+    |text|text|...|text|  table row  
+    <!--text--> comment 
+        text  (four spaces) block of quoted text 
+    {{{ code }}} block of code
+}}}
+
+===Links of Various kinds===
+{{{
+    TextText    WikiWord link
+    !TextText     not a WikiWord link
+    [[Text text]]  link with an arbitrary name
+    [[Text| Desc]]  or [[Text][Desc]]  with description
+    [[file://path/to/file]]   link to local file
+    http://somepage.com   plain link to a url
+    [http://somepage.com somepage]  with descr
+    [[images/pic.png]]   local pic
+    URL/pic.png  or  [[URL/pic.png]]  external pic
+    [[URL/pic.jpg| desc]] with descr
+    [[URL/pic.jpg| comment|]] with alternate text
+    [[URL/pic.jpg|text|width:100px;]]with alt.text and size
+    [[URL/pic.jpg||height:120px;]] just size
+    [URL/pic.png  URL/thumb.png] thumbnail link
+    [[URL/pic.png| URL/thumb.png]] thumnail link
+}}}
+
+===Placeholders affecting HTML output===
+{{{
+    % toc text  table of contents with optional titile
+    % title text  use this as title in stead of the filename    
+    % nohtml   do not convert to html
+    ignore the space between % and command.
+}}}
+
+2011-07-time19 00:16:04
+
+[[index|HOME]]   TechNotes
+<div id="disqus_thread"></div>
+<script src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>

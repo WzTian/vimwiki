@@ -1,0 +1,44 @@
+%title 室友来了
+
+
+= 室友来了=
+
+室友Kevin：
+
+[[../images/IMG016.jpg]]
+
+kevin 的父母是三十年前从越南来到美国的，父亲还会说一点普通话。今天他们一家子过来，很有搬家的感觉。搬完之后，宿舍也的确很有家
+的感觉。
+
+另一个室友Robin今晚从新泽西飞来，能不能进来还是未知数。
+
+前几天我以为我找到了著名的Asian Ghetto，其实那两家只能算Asian Ghetto adjacent。 今天修成正果，在Thai Brasil 吃了这个：
+
+[[../images/IMG014.jpg]]
+
+加税八美元，但量极大，故物有所值。
+
+另外加上从网上搜来的两张食物图片：
+
+falafel
+[[http://www.alternativechannel.org/files/blog/falafel.jpg]]
+
+taco
+[[http://bike-pgh.org/wp-content/uploads/2010/10/taco2DSC_3926.jpg]]
+
+----
+今天编译了最新版的sunpinyin，感觉长句输入还是这个更舒服。
+
+blog:datetime=2011/08/20 19:31:02:tags=伯克利
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
+

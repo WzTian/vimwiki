@@ -1,0 +1,30 @@
+%title 档案
+
+
+=档案=
+
+今天去学校把我的档案补齐了，顺便拿了毕业证。档案袋没有密封老师居然也说没有关系，大概也是考虑我基本用不上它，毕竟我回国加
+入事业单位、机关的可能性还是比较小的。
+
+在分拣档案的是二班一个原来奥数班里的同学，要去武大。若是他那次和我们同去了华中师大的数学夏令营，不知还
+会不会有勇气投身火炉呢？
+
+买好了登机箱，这两天交学费，分拣行李。
+
+----
+kde4.7 外观上没什么大区别，细节上更舒服了一点，如拖放激活最大化时的效果。
+
+终端字体换成了 Monaco，感觉很欢快。
+
+blog:datetime=2011/08/04 18:31:27:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+

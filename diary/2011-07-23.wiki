@@ -1,0 +1,24 @@
+%title 选课 
+
+
+= 选课 =
+
+选了十七个学分的课，如下：
+- Math 55 discrete math
+- Math 1a calculus
+- Philos 25a ancient philosophy
+- Eps c082 introduction to ocean
+- Amerstd 27ac lives of struggle: minorities in a majority culture
+还是比较满意的，如果telebears昨晚没503的话，说不定我会选 philos 3，而错过我可能更有兴趣的25a。
+
+blog:datetime=2011/07/23 13:15:44:tags=berkeley
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>

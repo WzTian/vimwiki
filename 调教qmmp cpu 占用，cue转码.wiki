@@ -1,0 +1,54 @@
+%title qmmp cpu 占用与.cue 转码
+
+
+= qmmp cpu 占用与.cue 转码=
+
+===qmmp cpu===
+调教前，播放时 cpu 占用60%~80%,暂停时在10%上下。
+
+具体操作：
+# 在 src 插件的参数设置中选线性插入。
+# 在 `/usr/share/applications/qmmp.desktop` 中的 Exec 项中写入 `export QT_NO_GLIB=1;qmmp %F`
+
+现播放时 cpu 占用 稳定10%以下。
+
+===转码 .cue 的 python 脚本===
+闲着没事写了一个，初步测试能用。
+{{{class"brush:python"
+#!/usr/bin/python
+# Filename newconvert.py
+
+import os
+import fnmatch
+import sys
+
+cuepath = raw_input('The path where the \'.cue\' files are:')
+incode = raw_input('Original encoding:')
+outcode = raw_input('Output encoding:')
+os.chdir(cuepath)
+for root, dirs, files in os.walk('.'):
+    print 'Working in %s.' % root
+    for file in files:
+        if fnmatch.fnmatch(file, '*.cue'):
+            command = 'iconv -f %s -t %s -cs %s > %s' %(incode,outcode,file,file)
+            if os.system(command) == 0:
+                print 'Converted %s' % file
+            else:
+                print 'Oops, cannnot convert %s' % file
+}}}
+
+
+
+blog:datetime=2011/08/04 00:03:32:tags=Music
+
+[[index|HOME]]   TechNotes
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
+

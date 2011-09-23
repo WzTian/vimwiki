@@ -1,0 +1,33 @@
+%title 要出发了
+
+
+= 要出发了=
+
+后天一大早就要走了，赶早班机到深圳马不停蹄过关到国际机场，2点半的飞机到旧金山，然后坐bayporter的车到 Stern Hall。
+
+有人请客送行，在没有取得任何成绩的情况下被庆祝真是很尴尬。
+
+kde 内置的weather plamoid 数据源很弱，Berkeley 天气只能搜到一个德国网站，与weather.com的数据相差+5℃.。`pacman -Ss weather` 发现了yawp这个
+好东西，支持多城市，可搜多个数据源，配置项丰富，功能强大全面，谁用谁知道……就是图标卡通了一点，有功夫hack一下。
+
+各个行李箱都装的差不多了，重量还不到，明天最终定容过秤封箱。
+
+新室友一个越南人，一个印度人，当然也可能是多代移民。
+
+两门课的书还没出来，纠结，我还想到那之后直接amazon一网打尽呢。
+
+手机考虑 virgin mobile 的 beyond talk plan。只是门面店好像都蛮远的（拿几百刀到711店买手机怎么感觉很奇怪呢）。
+
+这两天opera基本转正了，在其流畅的操作之下火狐更显得卡、卡、卡……
+
+blog:datetime=2011/08/12 23:23:12:tags=Berkeley
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>

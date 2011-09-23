@@ -1,0 +1,30 @@
+%title 无题
+
+
+= 无题=
+
+今天到!LeConte Hall 参加了物理，天文，地球/行星科学学生的介绍会，主要向我们介绍了如何参与研究。
+
+之前以为本科生都是干苦力的，其实大大的不然。我们参观的三个实验室中的宇宙学实验室就有一位本科生大一就参与其中，并设计了
+地光损失率的采光窗，目前已部署在南极（观测宇宙背景辐射）！另外两个实验室分别做超导体-量子力学和原子结构观测方面的实验，都是前沿的工作，
+我努力争取，应该也能有这样的机会。
+
+这两天在外面跑，读书计划落下了，要继续努力。
+
+Cal student store 让我失望啊，亚马逊的书都到了他还没消息，明天质问他们。
+
+----
+换掉Task Manager, 用上了smooth task，不是看中它的额外功能，只是task manager这几天表现太过erratic。
+
+blog:datetime=2011/08/23 22:16:31:tags=伯克利 物理
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+

@@ -1,0 +1,23 @@
+%title 使用wingdns
+
+
+= 使用wingdns=
+
+dot.tk提供的dns服务不太靠谱，设置项过于简单以至于令人困惑，于是暂时先用了它的域名转向。
+
+这样做的不足在于，无论访问那个页面，地址栏永远显示根域名，刷新一下就回主页了。于是我就开始寻找第三方的免费DNS服务。
+
+本想选择国外的，但找到的几个免费服务均有限时。 *dnspod*  我以前听说过，但注册时需提供姓名和电话，我不放心。wingdns是google
+搜到的，稳定性等都很难说，但既然works，就先用着，毕竟我目前还没有在这个站点上投入金钱的打算，一切要求还是降到最低为好。
+
+blog:datetime=2011/07/19 13:03:49:tags=建站
+
+[[../index|HOME]]   [[diary|Diary]]
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+

@@ -1,0 +1,30 @@
+%title 快评 生命之树
+
+
+= 快评 生命之树=
+
+这是我在异国他乡看的第一部电影，也是我看的第一部 Terrance Malick 电影。
+
+[[images/treeoflife.jpg]]
+
+本片从一个男孩的死亡入手探讨生命，以多人物心理独白的方式缓缓抛出了"To live is to love."的命题。
+
+Malick 想讨论的生命，显然不是每个人短暂的这几十年，而是宏观上生命从无机物生发而灿烂的奇迹。
+三十五亿年前，海洋中无机的分子迸出了第一星生命的火花;三十五亿年后，任一个生命还是无法逃脱
+凋亡的宿命。种种社会角色到底只是一种错觉，在人生两端，我们只是自己。
+
+摄影上，大量的跳接和运动摄影传达出生命的律动感。古典音乐的配乐与摄影结合相当完美，在大段大段没有台词甚至没有人物
+的画面里为情绪的发展起到了主要的推动作用。
+
+blog:datetime=2011/09/03 21:19:52:tags=berkeley malick
+
+[[index|HOME]]   MovieReview
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+

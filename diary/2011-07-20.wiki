@@ -1,0 +1,31 @@
+%title 
+
+
+=Tired and anxious=
+
+这几天时间利用率比较低。书看的也少了。
+
+第二轮选课要开始了，之后还有各种杂七杂八的事情，只能硬着头皮一件一件做。
+
+Math55的课本到了，厚得很，前面还没有什么难的东西。
+
+前天打了乙肝疫苗，左臂一直有点僵硬，不知道是否为心理作用。
+
+blog 基本成型了，美化以后再说，不想在这上面花太多心思。
+
+ps.给标题加了阴影效果，ie 看不到的了：）
+ps.ps. rekonq里不支持text-shadow的fuzzy效果，搞得我调試时困惑了一下。
+
+blog:datetime=2011/07/20 21:42:03:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+

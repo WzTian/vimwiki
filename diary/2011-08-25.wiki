@@ -1,0 +1,38 @@
+%title 第一天
+
+
+= 上课第一天=
+
+今天我有三堂课，一门“非裔美国人研究：主流文化中的少数族群”，一门单变量微积分，一门离散数学。
+
+“非”课的教授给人的感觉很有学识，在给我们过一遍课程安排后，把我们这学期要看的五本书都简单介绍了一遍。以下为书单：
+# The autobiography of Malcolm X
+# You can't be neutral on a Moving Train
+# Always Running
+# Never in My Wildest Dreams
+# Desis in the House: Indian American Youth Culture in New York City
+
+这几本书除了最后一本，都是Minority中一员的自述。Vincent教授认为，只有有亲身经历的个体的感受才有历史的真实性，因此我们
+期末的论文也是以自传形式讲述我们自己与主流文化的互动。
+
+Letters and Science学院教育的基础理念就是完善一个人的综合素质，这样来说我这门课选的很对。
+
+微积分的老师没什么特别的，连举的例子都是课本上原封不动的……
+
+教离散数学的是一位漂亮的女老师，讲的还算比较有意思，但我失望的发现课本又要用新版本了，而且一百美元上下，与我手里的第六版不一样的主要只是习题。
+老师说用旧版本上课无忧，但作业要从别人书上看来，很讨厌。
+
+----
+fcitx 用上kcm了！用上云拼音了！fbterm支持也已出来了！@CSSlayer 最近大动作连连。
+
+blog:datetime=2011/08/25 19:55:30:tags=伯克利 书 fcitx
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>

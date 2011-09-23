@@ -1,0 +1,33 @@
+%title 无题
+
+
+= 无题=
+
+这几天比较忙，马上第一次期中考试了。数学课开始有意思起来了，但需要的时间也就多了，于是乎我也用起GTD软件了。
+
+收集的那几个[[../ChineseCitizens]] 的资料在课上用到了，平时网上到处转还是有好处。
+
+笔记准备全面数字化，用vimwiki记录，同步在博客上。
+
+想翻译Malcolm X的一个访谈，不知道有那个靠谱的国内没被封的视频网站让我传一个九十MB的视频呢？
+
+下周开始读You can't be neutral on a moving trian。
+
+学校免费发了Adobe Creative suite，这个网站摆脱简陋拥抱华丽是指日……指月可待的！
+----
+
+@CSSlayer 火速做出hotot-qt，再次体现其强大功力。
+
+blog:datetime=2011/09/15 00:16:13:tags=berkeley notes
+
+[[../index|HOME]]   [[diary|Diary]]
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+

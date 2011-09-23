@@ -1,0 +1,28 @@
+%title 白夜，失眠症
+
+
+= 白夜，失眠症=
+
+在读陀斯妥耶夫斯基的《白夜》，又看了挪威版的 _Insomnia_ 。
+
+在读《白夜》之前先看了维斯康蒂改编的同名电影。除了跳舞那一场，全片几乎没有什么技法上的特别之处，却
+有一种精致而脆弱的美感。 
+
+Dreamer 作为一种存在的状态，或许其实是很不错的，毕竟要做梦，先要有清醒看到现实的那份幸运。
+
+_Insomnia_ 贯穿全片的是那片无孔不入的阳光，令人窒息。无配乐造成的精神疲劳与高亮度造成的视觉疲劳将观者成功代入失眠
+者虚实难分的心理幻境。
+
+今天大采购，箱子买了，外套下了订单。学费账单也到了，一切按部就班的走。
+
+blog:datetime=2011/07/26 23:46:18:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
