@@ -1,0 +1,41 @@
+%title 新电脑
+
+
+= 新电脑=
+
+新的笔记本是gateway的10寸上网本，atom cpu，无光驱，内置摄像头。发过来的第一天就把上面的xp格了
+装上了arch linux，现在用着gdm+xfce4，也不去跟它折腾什么.Xsession .xinitrc了，先用上再说。
+
+装系统驾轻就熟了，arch的设置很直观，配置文件格式和chakra基本一样（本来就是一家的……），有不明白的
+看一下原来的配置就清楚了。今天把git同步做好了（其实无比简单……），以后在两台机器上的代码和wiki都自动
+“云同步”（这个词真是用滥了……）。
+
+小电脑的电池无比强劲，估计能撑六到七小时，记笔记毫无压力。想想大电脑不到两小时就要悲剧，感觉这170美元
+还是花值了。
+
+系统很流畅，但终端反应有点迟钝，考虑换urxvt，但怕折腾。
+
+把.vimrc .bashrc .vim/ .Xmodmap 复制过来了后，顿时就有了一种无比亲切的感觉，我以后真的用不了
+别人的电脑了…………
+
+在这个机器上编译软件是不太靠谱的，但好在arch的源比较大，不像chakra连火狐都没有。
+
+dropbox也用上了，蛮好。
+
+哲学课要写第一篇论文了，今晚开始动笔，如果宿舍吵的话就抱着小电脑跑到7楼公共活动室。
+
+----
+
+今天去eps c82 的复习课，礼堂里一水的macbook air/pro，让我这个二手的小本子压力巨大……但开着终端用vim记笔记
+应该还是把场面hold住了……
+
+blog:datetime=2011/09/23 15:09:27:tags=netbook
+
+[[../index|HOME]]   [[diary|Diary]]
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
