@@ -1,0 +1,25 @@
+%title urxvt 是个好东西
+
+
+= urxvt 是个好东西=
+
+上一篇里说terminal反应迟钝，有时vim输入命令都要卡一秒，真是无法忍受的。于是装了urxvt。
+
+
+配置内容用的是这里的：[http://sillydong.com/mylinux.urxvt.html] ，字体改成了Monaco。
+还用到了[http://forum.ubuntu.org.cn/viewtopic.php?f=48&t=258430&start=0 |这个帖子]。
+
+除了复制粘贴没解决外，其他比较完美了。 
+
+blog:datetime=2011/09/24 13:39:47:tags=urxvt netbook
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
