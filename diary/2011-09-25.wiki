@@ -1,0 +1,30 @@
+%title 无题
+
+
+= 无题=
+
+写paper效率不是很高，但至少也有个样子了，现在各种文档都用Dropbox 或者
+github 同步，u盘基本下岗。
+
+把gdm换成了slim，其实主要是冲着它漂亮……在arch wiki的指导之下， !PolicyKit 
+,dbus 的初始化也做好了，开始没自动加载.xmodmap，也把它写到.xinitrc里了。
+其实不算折腾。
+
+urxvt很不错，就是fcitx无法跟随，但这也是没办法的，据开发者说这是开启
+opera下光标跟随的并发症。
+
+pacman里打开了那个 !ILoveCandy 的彩蛋，满可爱的。
+
+同学们军训都差不多了吧？
+
+blog:datetime=2011/09/25 10:25:40:tags=arch
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
