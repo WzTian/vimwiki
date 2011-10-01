@@ -1,8 +1,7 @@
 %title WzTian主页
 =Weizhi Tian's Personal Page=
-===="As if you could kill time without injuring eternity."--Henry David Thoreau====
-====== If you are using IE6 to view this page, you missed the few visual effects I know how to make. ====== 
-====== 使用IE 的人注意了：本页上部分效果只有遵守W3C标准的好浏览器才看的到哦！======
+== 祝妈妈生日快乐！！==
+====Kind hearts are more than coronets====
 === Categories/分类 ===
     - [[diary/diary|Diary]] 日记 keeping notes of the meaningless moments.
     - TechNotes--技术--me and my linux box.
