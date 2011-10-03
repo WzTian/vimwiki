@@ -1,0 +1,39 @@
+%title Oct 3 Lecture
+
+
+= Oct 3 Lecture=
+The volume of the Pt Sur explore is 5 L the bouyancy adjustment is 0.2 L
+
+Conductivity Temperature Depth -->> salinity(based on conductivity) density pressure ...
+
+calcium is a conservative element. It's concentration does not change much
+as depth changes. residense time much longer than that of water. 
+Elements with varying profiles are NON-conservative.(C N O Si P)
+Why are there more 02 and less P Si at 6km?
+Thermohaline Deep Ocean Circulation
+Density (function of T and S and Pressure)
+Potential density(eliminate the Pressure effects)
+Water in deep sea moves easily along surfaces oc constant potential density.
+
+The strength of Pycnocline determines whree surface water sinks into the deep wea
+
+4 Heat budget terms:
+# Short wave(solar)
+# long wave(IR blackbody)
+# sensible(due to temperature difference - in or out)
+# Latent heat(cooling due to evaporation)
+
+
+blog:datetime=2011/10/03 10:10:18:tags=
+
+Land heat capacity is ~ 0.2 cal/c
+water heat capacity ~ 1 cal/c + water has high latent heat.
+
+The Overtuning circulation happens mainly in the five seas.
+In North Atlantic Gyre
+Overtuning circulation starts with surface water moving into the Norwegion Sea
+Losing heat density increase, sink -->> north atlantic deep water
+Weddell Sea ABW
+1 Sverdrup = 10*6 m*3/sec
+
+[[index|HOME]]   [[Work]]
