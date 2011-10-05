@@ -1,0 +1,58 @@
+%title lec 05
+
+
+= lec 05=
+
+== Waves ==
+
+{{{
+The thermohaline circulation:
+- water sink at poles(little density difference)
+- deep spreading
+- heated, less dense, goes up
+- surface flow
+- (determined by measureing the age of water through c-14)
+}}}
+
+===Key concepts===
+# waves are created by a disturbing force and a restoring force
+# waves are disturbances that travel along the ocean surface and transport energy, but *NOT MASS*
+# waves behave differently if they are in shallow water or deep water _relative to their own size_.
+
+===definitions===
+- crest 波峰
+- trough 波谷
+- wavelength
+- height
+- period
+- frequency
+
+All waves are *force* by *disturbing force*, *subject* to *restoring force*.
+
+The water molecules move in circles(orbits) at some depth, the circle is too small 
+
+# capillary wave    WL<2cm wind surface tension
+# wind wave         WL 60-150m wind gravity
+# seiche            large variable, a function os basin size
+# seismic sea wave 100 km
+# tidal wave 0.5 * radias of earth
+(table 10.1)
+
+Three categories of wave:
+# deep water waves: depth > length/2
+# shallow water wave: depth < 1/20 * length
+# intermediate
+
+*deep water waves speed* : C=sqrt(g*L/2*Pi) or C = 1.25*sqrt(L ) C: speed L: WL
+*shallow water waves speed* C=sqrt(gd) d: depth or C=sqrt(d ) * 3.1
+
+wind waves and capillary waves can be deep water waves, others are normally shallow water waves
+due to their wave length
+when wave breaks: bottom moves slower than the peak.
+water slow down and bend toward shore.
+rogue waves: addtion of waves and opposing currents(max 34m)
+
+
+blog:datetime=2011/10/05 10:09:13:tags=
+
+[[index|HOME]]   [[Work]]
