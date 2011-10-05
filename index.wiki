@@ -1,6 +1,6 @@
 %title WzTian主页
 =Weizhi Tian's Personal Page=
-== 祝妈妈生日快乐！！==
+
 ====Kind hearts are more than coronets====
 === Categories/分类 ===
     - [[diary/diary|Diary]] 日记 keeping notes of the meaningless moments.
