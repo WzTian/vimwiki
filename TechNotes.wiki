@@ -5,5 +5,7 @@
 - VimIM 体验 
 - [[调教qmmp cpu 占用，cue转码]]
 - [[Vim 批量诠释]]
+- TeX
+-
 
 [[index|HOME]]  
