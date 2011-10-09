@@ -1,6 +1,6 @@
 %title WzTian主页
 =Weizhi Tian's Personal Page=
-
+===一位色盲同志的博客===
 ====Kind hearts are more than coronets====
 === Categories/分类 ===
     - [[diary/diary|Diary]] 日记 keeping notes of the meaningless moments.
