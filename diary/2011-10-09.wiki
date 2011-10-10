@@ -1,0 +1,32 @@
+%title CCR
+
+
+= CCR=
+
+今天在ccr里上传了两个包，pinfo和deadbeef-git。其实PKGBUILD基本上都是抄自aur里的，
+只是一些链接改了改，原来的iotop包里的依赖居然写成了python2，丢人了……赶紧改了。
+
+两个室友都在写paper，满纠结的，其实我写paper是比他们还纠结……
+
+数学作业最后两道没啥思路，好在周三才交，还有时间想。
+
+中国五十年代的人口统计资料，除了我国的人口普查，外国人有可能获得更好的数据吗？
+第二次人口普查好像只有到省级的数据，而且没有分民族数据
+……要不要去那个东亚研究图书馆看一下呢？晚上先到联合国的统计数据里翻一翻吧……
+
+----
+
+啊呀，打下面评论的代码突然发现我在vimwiki里加了div标签的，实现各种效果都有希望了！
+
+blog:datetime=2011/10/09 19:03:48:tags=african chakra
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
