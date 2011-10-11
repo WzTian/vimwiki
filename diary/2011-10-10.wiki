@@ -28,6 +28,12 @@ I don't understand why people do not like this dark theme, I think it is way mor
 
 UPDATE: 海洋的期中出来了，满分一百考了一百零九……其实有十分的附加题……
 
+I got Esc and Caps_Lock switched in tty :) but the fcitx-fbterm isn't working :( . @CSSlayer seems busy with his laptop's battery 
+freaking out...!WenQuanYi Micro Hei Mono is really good.
+
+BTW, the ifttt keeps flooding my message inbox with "pack an umbrella". The sad part is, I still forget it this afternoon when I headed out
+to the Math 1A discussion...
+
 blog:datetime=2011/10/10 00:19:23:tags=
 
 [[../index|HOME]]   [[diary|Diary]]
