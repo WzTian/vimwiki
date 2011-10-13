@@ -1,0 +1,30 @@
+%title Dennis Ritchie 去世
+
+
+= Dennis Ritchie 去世=
+
+Dennis Ritchie，C语言的发明者，UNIX的创造者，在10月九号去世，享年70。
+
+想起那本没看完的K&R，心里一阵伤心。
+
+接下来的几年，可能计算机革命的各位先驱都要一个个的走了。但计算机已经是人类文明不能分割的一部分了。
+几百年后的人写历史，必然把他们当作我们时代的英雄。
+
+----
+今天听了一个Sylvia Earle 的讲座，本来心情不错的，结果一回家上推就看到这个消息。
+PS. Sylvia Earle 样子的确老了，毕竟原来百科全书和记录片里看到的都是她七八十年代的影像。但演讲亲切而自如，很有水平。
+PS.PS. 哲学论文拿了A-。
+PS.PS.PS.用个google字体api的思路有了，外置一个js脚本。周末搞。
+
+blog:datetime=2011/10/12 19:44:14:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
