@@ -1,8 +1,7 @@
 %title WzTian主页
 ==Weizhi Tian's Nest==
 ===一位色盲同志的博客===
-======虽然都是黑黑的，用ie还是会错过一些好玩的效果的哦======
-====Kind hearts are more than coronets====
+======Dennis Ritchie (1941-2011) Rest in Peace.======
 === Categories/分类 ===
     - [[diary/diary|Diary]] 日记 keeping notes of the meaningless moments.
     - TechNotes--技术--me and my linux box.
