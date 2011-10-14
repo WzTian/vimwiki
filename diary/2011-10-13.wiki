@@ -1,0 +1,26 @@
+%title 哈哈，可以在tty里面打汉字了
+
+
+= 哈哈，可以在tty里面打汉字了=
+
+在@CSSlayer的领导之下，一行`fcitx-fbterm-helper -l`拯救了世界。
+囧的是，我依然不知道究竟发生了什么……
+
+机票订好了，居然还是上次来的那个航班，好在是直飞……
+
+手机root之后感觉良好，流畅了许多（调了内存管理）。可能要卸载twitter for android这个电老虎了。
+
+不写了，读书去。
+
+blog:datetime=2011/10/13 23:10:31:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
