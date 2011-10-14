@@ -1,0 +1,33 @@
+%title lec 1012 coast
+
+
+= lec 1012 coast=
+
+===Review: tides===
+# forcing: gravity (externally forced waves)(mainly from the moon)
+# wave equation: shallow water wave 
+# mixed, semi diurnal(daily)(most locations), diurnal
+# level: MLLW(mean lowest low water) MLW(mean low water)
+`NOTE: the earth moon system is rotation around the mutual mass center(which is inside earth)`
+The gravity of moon and the "centrifugel" force cause the two tides.
+NEAP::(sluggish) 
+SPRING::()
+Tractive force::the sum of the gravitational force and the centrifugle forces
+Amphidromic Points::the point at sea whrere there is *NO* tidal effect.
+The tides in pacific _rotates_ around the edge of basin counter-clockwise.(water also do this in small bays)
+Bay of Fundy: Highest tidal range due to basin resonance.
+
+===COAST===
+=====Coast Vs Shore=====
+Coast:: where waves/tides influence land including bottom.
+shore:: coundary between water and land -this changes over time.
+continental margins:passive active
+Active margins are generally erosional
+rule of thumb::waves start to break when depth is shallower than _wave base_ (distance between crests divded by 2)
+=====beaches/beach processes=====
+
+=====deltas=====
+blog:datetime=2011/10/12 10:08:48:tags=
+
+[[index|HOME]]   [[Work]]
+

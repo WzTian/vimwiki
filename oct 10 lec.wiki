@@ -10,7 +10,7 @@
 === Tsunami - images/movies===
 - All waves with periods longer than ~ 20 secs are clearly affected by coriolis force
 === TIdes -tide gauges===
-- The tide level is important for:
+- The tide gage record is important for:
     # safty - avoid botto
             - navigation
             - standing waves:: at point entrances

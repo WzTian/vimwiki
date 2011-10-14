@@ -2,4 +2,6 @@
 - [[sep 26 lec]]
 - [[oct 3 lec]]
 - [[oct 5 lec]]
--[[oct 10 lec]] 
+- [[oct 10 lec]] 
+- [[oct 12 lec]]
+
