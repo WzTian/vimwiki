@@ -11,16 +11,32 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<script type="text/javascript">
+< script type="text/javascript">
 WebFontConfig = {
 google: { families : [ 'Tangerine', 'Merriweather''IM+Fell+English+SC::latin', 'Cabin+Sketch:700:latin', 'Calligraffitti::latin', 'Monoton::latin', 'Mountains+of+Christmas::latin' ]}
 };
 (function() {
-var wf = document.createElement('spt>
-<script type="text/javascript" src="%root_path%scripts/shBrushPython.js"></script>
-<script type="text/javascript" src="%root_path%scripts/shBrushCss.js"></script>
-<script type="text/javascript" src="%root_path%scripts/shBrushBash.js"></script>
-<script type="text/javascript" src="%root_path%scripts/shBrushCpp.js"></script>
+var wf = document.createElement('script');
+wf.src=('https:'== document.location.protocal ? 'https':'http')+
+'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+wf.type='text/javascript';
+wf.async='true';
+var s= document.getElementsByTagname('script')[0];
+s.parentNode.insertBefore(wf.s);
+})();
+< /script>
+...
+省略无关内容若干
+...
+< script type=text/javascript" src="%root_path%scripts/shCore.js">< /script>
+< link type="text/css" rel="stylesheet" href="%root_path%styles/shCoreDefault.css"/>
+< script type="text/javascript">
+SyntaxHighlighter.all();
+< /script>
+< script type="text/javascript" src="%root_path%scripts/shBrushPython.js"></script>
+< script type="text/javascript" src="%root_path%scripts/shBrushCss.js"></script>
+< script type="text/javascript" src="%root_path%scripts/shBrushBash.js"></script>
+< script type="text/javascript" src="%root_path%scripts/shBrushCpp.js"></script>
 </head>
 <body>
 %content%
