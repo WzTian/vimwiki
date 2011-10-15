@@ -14,7 +14,7 @@
 
 ===转码 .cue 的 python 脚本===
 闲着没事写了一个，初步测试能用。
-{{{class"brush:python"
+{{{class="brush: python;"
 #!/usr/bin/python
 # Filename newconvert.py
 
