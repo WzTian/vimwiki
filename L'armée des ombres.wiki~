@@ -3,6 +3,11 @@
 
 = Army of Shadows=
 
+音乐要用chrome才能听，火狐对不住了。
+
+<audio src="armyofshadow.mp3" controls="controls">
+</audio>
+
 "L'armée des ombres"，译名影子军队，是Jean-Pierre Melville的晚期作品，讲的是二战维希法国地下抵抗运动的故事。
 
 这样一个比较主旋律的故事，人物塑造是很大的挑战。既不能因戏说而破坏了历史的真实，又要小心人物的个性被历史的背景吞没。
@@ -39,6 +44,10 @@ Melville在本片中采用了有主有次的多视角叙事。虽然全片的主
 [[images/shot0018.png]]
 [[images/shot0022.png]]
 [[images/shot0024.png]]
+
+----
+
+感谢@CSSlayer的fcitx-fbterm，让我在KDE发飙的情况下在控制台写了这篇评论。
 
 blog:datetime=2011/10/15 21:17:06:tags=French Movie
 
