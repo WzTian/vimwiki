@@ -9,7 +9,7 @@
 
 上图：
 
-[[images/awesome.png]]
+[[../images/awesome.png]]
 
 桌面用feh设的，是标准收藏里Micheal Powell 的 Peeping Tom DVD碟封改造的。
 
