@@ -6,3 +6,5 @@
 - [[Monty Hall Puzzle]] 三门问题
 
 
+[[index|Home]]
+
