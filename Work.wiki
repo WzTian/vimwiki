@@ -2,5 +2,6 @@
 - [[Malcolm X's letter after visiting Mecca]]
 - [[Malcolm X 从麦加回来后的访谈]]
 - ClassNotes
+- PickClass
 
 [[index|HOME]]
