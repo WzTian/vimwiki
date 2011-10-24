@@ -1,0 +1,41 @@
+%title sediments(continued)
+
+
+=sediments(continued)=
+==Thermodynamic Equilibrium==
+
+Terrigenous:44%
+Biogenous:55%
+    !CaCO3
+    Siliceous(opal)
+Hydrogenous:1%
+    Formed locally by chemical reactions e.g. Mn nodules
+Cosmogenous:
+    from outer space
+
+Dust originally takes 50-100 year to sink.
+*BUT*:the life feed on zooplankton, and the dust became gecal pellets.(much faster)
+
+Boulders are carried by the icebergs
+
+The turbidity currents of Ganges deliver *large* amount of sediments
+An ice age flood carried sediments to the gulf of Mexico
+    `Ksp = [Na+]*[Cl-]`
+sea water: 39g/L:undersaturated
+`Ca^2+^ + CO3^2-^ = CaCo3(s)`
+*Note: the concentration of Ca2+ doesn't change over time*
+The solubility of !CaCo3 is small, cause solid to form
+
+==Rules==
+# Most productions of !CaCo2 shells restricted to water warmer than 5 celsius
+# Surface waters are supersaturated everywhere(photosynthesis: `co2+h20<--> ch2o + 02`
+# !CaCO3 dissolves when water is below saturation with respect to !CaCO3
+# !CaCO3 solubility increases with increasing pressure and decreasing temperature
+# REspiration adds CO2 to deep water`CH2O + O2 --> CO2 + H2O` make water acidic
+# Sediments loose !CaCo3 when rate of dissolution > rate of supply
+# There are two forms of !CaCO3 , calcitc, aragonite(more soluble)
+
+blog:datetime=2011/10/24 10:09:21:tags=
+
+[[index|HOME]]   [[Work]]
+
