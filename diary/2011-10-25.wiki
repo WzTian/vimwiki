@@ -1,0 +1,23 @@
+%title 选课
+
+
+=选课=
+
+选课真是头痛的事情啊！物理7A和数学1B是必须选的，已经有了八个学分。阅读写作课有一个“比较文学”，
+阅读的书很有意思，包括我很久以来想读的Death in Venice，还有一部陀思妥耶夫斯基的Notes from Underground。
+
+俄语课下学期的老师评分高的吓人，不上真的可惜了。另一科film study 50评分也很高，而且有电影可以看……
+但都选的话就21学分了啊！没有空间再上!DeCal了！而且语言课和阅读写作都会忙的，咋办呢？
+
+blog:datetime=2011/10/25 00:04:35:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
