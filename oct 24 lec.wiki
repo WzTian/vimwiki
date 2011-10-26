@@ -28,12 +28,21 @@ The solubility of !CaCo3 is small, cause solid to form
 
 ==Rules==
 # Most productions of !CaCo2 shells restricted to water warmer than 5 celsius
-# Surface waters are supersaturated everywhere(photosynthesis: `co2+h20<--> ch2o + 02`
+# Surface waters are supersaturated everywhere(photosynthesis: `co2+h20<--> ch2o + 02`) Ksp<...
 # !CaCO3 dissolves when water is below saturation with respect to !CaCO3
 # !CaCO3 solubility increases with increasing pressure and decreasing temperature
 # REspiration adds CO2 to deep water`CH2O + O2 --> CO2 + H2O` make water acidic
 # Sediments loose !CaCo3 when rate of dissolution > rate of supply
-# There are two forms of !CaCO3 , calcitc, aragonite(more soluble)
+# There are two minerals of !CaCO3 , calcite saturate @ 700(most abundant, deeper than ara), 
+# aragonite(more soluble)saturate @ 500
+
+Pacific 1500 years old saturarion horizon is shallow, atlantic, deep water much younger--less repired CO2,
+less acidic, saturation horizons deeper.
+
+H2CO3(carbonate acid) <=> HCO3-(bicarbonate ion) <=> CO3^2-^(carbonate ion)
+
+The Calcium Carbonate Compensation Depth :CCD: depth at the bottom where rate of !CaCO3 sedimentation just
+equals rate of dissolution.
 
 blog:datetime=2011/10/24 10:09:21:tags=
 

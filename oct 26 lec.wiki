@@ -1,0 +1,16 @@
+%title Marine Life
+
+
+=Marine Life=
+
+==Sediments continued : Siliceous Sediments==
+
+===Rules===
+# diatoms and radiolavia grow every where
+# water is always undersaturated with respect to !SiO2*H2O
+# The rate of dissolution of silicon is slower in cold water
+
+
+blog:datetime=2011/10/26 10:09:55:tags=
+
+[[index|HOME]]   [[Work]]
