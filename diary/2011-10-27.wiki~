@@ -6,7 +6,7 @@
 这个标题，写得让别人对Linux有坏印象了呀……
 
 其实，原来用DE这些都是自己在幕后解决了的，但用awesome就要配置一下了。
-用了awesome wiki上找到的一个脚本。http://awesome.naquadah.org/wiki/ShutdownDialog
+用了awesome wiki上找到的一个脚本。http://awsome.naquadah.org/wiki/ShutdownDialog
 
 脚本里面已经有相关的命令了，但之前一直本着"if it works, don't break it"的精神没有试
 （明明是懒么）。今天装上upower只后试了发现无用，对照arch wiki发现加上 `--print-reply`
