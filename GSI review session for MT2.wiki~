@@ -1,0 +1,28 @@
+%title REVIEW MT2
+
+
+=REVIEW MT2=
+
+===Ocean Circulation===
+===waves===
+===wave calculations===
+===Tides===
+===Coastal Processes===
+===esturaries===
+===sediments===
+turbidity current brings lots of terrigenous sediments far in to the sea.
+
+===Calcium Carbonate Chemistry===
+!CaCO3 rules:
+- supersaturate everywhere at surface
+- occur in seawater Temp > 5 celcius
+- ksp stuff....*Note: with pH and Kh, we can calculate the concentration of the (bi)carbonate ions*
+- (use logarithm to get `[H+]` from pH, and plug in to calculate)
+- CO2 dissolves better at greater Pressure and low temp
+- dissolved CO2 increases acidity
+- *Note: aragonite dissolve earlier*
+- _In atlantic CCD 4km, Pacific CCD <1km(older water, more acidic)_
+
+blog:datetime=2011/10/28 10:12:44:tags=
+
+[[index|HOME]]   [[Work]]
