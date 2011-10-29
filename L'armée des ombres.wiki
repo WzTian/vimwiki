@@ -3,10 +3,9 @@
 
 = Army of Shadows=
 
-音乐要用chrome才能听，火狐对不住了。
+~~音乐要用chrome才能听，火狐对不住了。~~
 
-<audio src="armyofshadow.mp3" controls="controls">
-</audio>
+`<iframe frameborder='0' height='540' width='100%' src='http://min.us/mIhj81jsT#1e'></iframe>`
 
 "L'armée des ombres"，译名影子军队，是Jean-Pierre Melville的晚期作品，讲的是二战维希法国地下抵抗运动的故事。
 
