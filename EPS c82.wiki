@@ -9,4 +9,5 @@
 - [[oct 24 lec]]
 - [[oct 26 lec]]
 - [[responce to MT2 review questions]]
+- [[GSI review session for MT2]]
 

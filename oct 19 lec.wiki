@@ -20,9 +20,10 @@ budgeting(source/sink)
 - context
     - Tectonic setting (active, passive, Mid Ocean Ridge,)
     - Proximity to continent(river suuply glaciers)
-    - Rate of supply(production of shells, erosion due to uplift, dam bursts)
-    - chemical precipitation, dissolution(Hydro Thermal Vents, CO2 dissolution, oppo)
-    - Different Classes(by the dominant *SOURCE*)
+    - Rate of supply(production)(production of shells, erosion due to uplift, dam bursts)
+    - rate of chemical precipitation, 
+    - rate of chemical dissolution(Hydro Thermal Vents, CO2 dissolution, oppo)
+    - *Different Classes(by the dominant SOURCE)*
         - Terrigenous
         - Biogenous(Corals)!CaCO3 !SiO2
         - hydrogenous

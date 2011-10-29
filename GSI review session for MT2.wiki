@@ -1,0 +1,38 @@
+%title REVIEW MT2
+
+
+=REVIEW MT2=
+
+===Ocean Circulation===
+Thermohaline circultaion:
+    vertical mixing, driven by temp and salinity(density) 
+    water sink where there is a weak pycnocline(also sea ice formation --> brines)
+    in *SEAs*, the heat prop of land (cold wind)cool the water in the sea, and form deep water
+    deep water is more nutritious because the organic matters *SINK*
+===waves===
+===wave calculations===
+===Tides===
+===Coastal Processes===
+mixing time:: the circulation time, how long does it take a water molecule to travel over the ocean(1500)
+residence time:: the time for the ocean to evaporate.
+Steady state :: input == output
+SF bay: drowned river mouth and tectonic.
+well-mixed to salt-wedge change with season.(more fresh water flow in winter)
+===esturaries===
+===sediments===
+turbidity current brings lots of terrigenous sediments far in to the sea.
+terrigenous sediments can also be from wind(near sahara)
+===Calcium Carbonate Chemistry===
+!CaCO3 rules:
+- supersaturate everywhere at surface
+- occur in seawater Temp > 5 celcius
+- ksp stuff....*Note: with pH and Kh, we can calculate the concentration of the (bi)carbonate ions*
+- (use logarithm to get `[H+]` from pH, and plug in to calculate)
+- CO2 dissolves better at greater Pressure and low temp
+- dissolved CO2 increases acidity
+- *Note: aragonite dissolve earlier*
+- _In atlantic CCD 4km, Pacific CCD <1km(older water, more acidic)_
+
+blog:datetime=2011/10/28 10:12:44:tags=
+
+[[index|HOME]]   [[Work]]
