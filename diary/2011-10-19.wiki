@@ -9,7 +9,7 @@
 
 上图：
 
-[[../images/awesome.png]]
+<a href="http://www.flickr.com/photos/twzh_ly01/6292619956/" title="awesome by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6045/6292619956_946858f6e0.jpg" width="500" height="293" alt="awesome"></a>
 
 桌面用feh设的，是标准收藏里Micheal Powell 的 Peeping Tom DVD碟封改造的。
 
