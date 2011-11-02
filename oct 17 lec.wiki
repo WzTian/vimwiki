@@ -13,7 +13,7 @@ The sealevel became stable about 8 thousand years ago.
 Drowned river mouth, and Tectonic estuary
 ===importance of estuaries===
 Estuary:: a body of water where sea water and fresh water mix. semi-enclosed by land, ecologically important
-Shellmount::human created shell of mount(indication of civilization acient).
+Shellmount :: human created shell of mount(indication of civilization acient).
 Salt marsh has high plant productivity.(protected from wave)
 
 - Fister sediment from rivers
@@ -29,10 +29,10 @@ Salt marsh has high plant productivity.(protected from wave)
     tectonic faulting or subsidence leads to coastal indentation. salt and freshwater mix in the basin.
 ===mixing senarios===
 controled by tidal influence, freshwater flow, shape of estuary.
-- salt wedge:: rapid freshwater flow, low-moderate tidal influence.(salt water is held back)
-- well-mixed:: slow freshwater flow, moderate-high tiadal influence.
-- partially mixed:: rapid freshwater flow, moderate-high tidal influence.
-- fjord::little tidal influence. rapid freshwater flow,(layer of salt water on floor)
+- salt wedge :: rapid freshwater flow, low-moderate tidal influence.(salt water is held back)
+- well-mixed :: slow freshwater flow, moderate-high tiadal influence.
+- partially mixed :: rapid freshwater flow, moderate-high tidal influence.
+- fjord :: little tidal influence. rapid freshwater flow,(layer of salt water on floor)
 ======SF bay?======
 - summer:wellmixed
 - autunm:partially 
