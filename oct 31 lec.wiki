@@ -1,0 +1,64 @@
+%title Marine life
+
+
+=Marine life=
+
+==What is life==
+# Homeostasis(control, regulate environment)
+# metabolism/energy processing
+# growth and development
+# heredity and adaptation
+# Ability to reproduce
+# response to stimuli
+# cellular organization
+
+
+==Life through Time & Evolution==
+# 4540 Myrs ago, earth forms
+# 4530 Myrs, moon forms
+# 4100-3800 Myr "last heavy bombardment"
+# 3800 Myr chemical traces life ??(Isotopes: C^12^and C^13^,C^14^:biological process prefer a specific kind)
+# 3500 Myr oldes stromatolites
+# 3460 Myr micro fossils (Aus)
+# 2700 Myr oxygenic cyanobacteria
+# 800 Myr first Multi-cellulaar organisms
+# 600 Myr first animal
+# 0.25 Myr human
+
+Origin of life recipe
+Ingredients:
+- water
+- organic molecules (C-rich)
+- proteins + 20 amino acids
+- genetic information
+- membrane(lipids)
+
+General model of origin of life:
+# Reducing Atmosphere(non oxydizing) where electrial activity can catalyze organic molecules (amino acids)
+# Phosopholipids can self assmeble into cell membrane
+# Protein firs or Nucleic Acid first:
+    # 
+    # 
+    # 
+primordial soup
+
+commonalities of scenarios of life formation:
+- sort of Concentration mechanism
+- sort of energy source to produce organic molecules
+
+Prokaryotic :: non nucleated cell
+Eukaryotic :: nucleated cell
+ 
+Evolution:
+# more offspring than can survive
+# random variation (inheritable)
+# some inheritance improve chances of survival
+==Primary Productivity==
+Def:: The rate of synthesis of organic material in to organic substances (measured in grams C /yr*m^2)
+*NOTE* does not equal _biomass_
+- photosynthesis
+- chemosynthesis(CO2 + H2O + H2S -> C6H12O6 + S + H2O)
+
+blog:datetime=2011/10/31 10:11:02:tags=
+
+[[index|HOME]]   [[Work]]

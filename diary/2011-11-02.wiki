@@ -1,0 +1,34 @@
+%title 比较忙
+
+
+=比较忙=
+
+进入第二轮期中考试时间了，今明两天都有考试。美国文化课突然加量，一周交两篇essay，还好reading
+都提前做完了。
+
+所以就没怎么搞电脑了，只是今天补装了alsa的一系列包（原来只装了alsa-lib，还奇怪怎么没有alsamixer==b）
+
+Occupy Oakland出现了比较暴力的场景，但其实也只是催泪瓦斯。那些占领者拒绝谈判，警方和市政又能怎么办呢？
+马路毕竟不是只给他们修的，他们也不真是99%。我们的一个GSI给我们讲了讲剩余价值理论，同学问他资方投入的
+资本如何考虑，他说为了算的简单暂时不考虑……~~文科生真可怕~~然后就是老掉牙的银行不创造价值的理论（他
+说的还只是银行不生产产品……），我当时就想问他一句，银行这么没用，您老有没有存钱呢，没了银行，您老
+把钱都踹裤腰里吗？也怪那些了解金融体系的，大部分都在金融体系里，无法发出使人信服的声音。今天他们要搞
+大罢工，还要封锁码头（GSI说是因为码头货流量大，是~~谁的呢~~重要财源）。看来他们的抗议已经正式走向
+仇富的路线了。美国人说是有动荡的六十年代，其实比起我们的二十世纪前五十年真的是过家家一样，又因为
+超级大国的身份自大，对世界的历史其实相当无知，要革命，却不知革命为何物（其实他们搞反战的时候，又如何
+不是从未在领土上有过外敌）。
+
+本来想再做点分析啥的，困了，睡了。
+
+blog:datetime=2011/11/02 00:25:06:tags=乱象丛生
+[[../index|HOME]]   [[diary|Diary]]
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
