@@ -1,0 +1,39 @@
+%title 又考了两门试
+
+
+=又考了两门试=
+
+如题，昨天考了eps c82，今天考了math 1a。今天感觉比昨天好。
+
+下周和下下周各一门midterm，math55的midterm排的这么靠后，不知是什么道理……
+
+这个周末打算把AC课的final paper起个头，要不然到时候忙不过来。再看一点 PyQt 。
+
+上周末看了伍迪艾伦的新作《午夜巴黎》，又被勾起了读The Great Gatsby的想法。好书那么多，一辈子咋读得完呢……不过停掉twitter之后感觉
+时间利用效率是高了一点呢……下学期的比较文学课，要读Death in Venice，期待呢……发现Notes from underground在gutenburg project上面有，不知道
+版本好不好。
+
+下面发几张自制的kindle屏保吧，顺便推销一下已经基本白菜价的kindle……（点击图片到flickr相册，选择合适尺寸下载）
+大部分都糟糕的很，选几张还看得下去的贴出来：
+
+<a href="http://www.flickr.com/photos/twzh_ly01/6310993855/" title="lostintranslation-v2 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6239/6310993855_9b3da90f27.jpg" width="375" height="500" alt="lostintranslation-v2"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6311515268/" title="m-v2 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6116/6311515268_7dc8d2dca5.jpg" width="375" height="500" alt="m-v2"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6311515310/" title="beforetherain-faces-v2 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6104/6311515310_825a4c9f9c.jpg" width="375" height="500" alt="beforetherain-faces-v2"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6311515040/" title="exorcist by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6041/6311515040_8ba4ee4bc2.jpg" width="375" height="500" alt="exorcist"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6311514956/" title="casino-robert by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6119/6311514956_df10b564ac.jpg" width="375" height="500" alt="casino-robert"></a>
+
+降低了标准，好像也只能挑出这几张X_X
+ 
+blog:datetime=2011/11/03 21:42:40:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
+
