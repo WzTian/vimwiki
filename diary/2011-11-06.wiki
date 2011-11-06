@@ -1,0 +1,35 @@
+%title 鱼
+
+
+=鱼=
+
+昨天去了California Academy of Science，~~旅途中的悲催过程略过一千字~~放一些照的鱼什么的：
+
+<a href="http://www.flickr.com/photos/twzh_ly01/6320256822/" title="肺鱼 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6221/6320256822_be187dfd20_z.jpg" width="640" height="480" alt="肺鱼"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6319735707/" title="盲鱼 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6235/6319735707_f82b956e33_z.jpg" width="640" height="480" alt="盲鱼"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6319735569/" title="羽毛海星 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6102/6319735569_3c0695a14c_z.jpg" width="640" height="480" alt="羽毛海星"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6320256012/" title="C360_2011-11-0513-11-25 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6220/6320256012_79cae0a967_z.jpg" width="640" height="480" alt="C360_2011-11-0513-11-25"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6320255826/" title="Sea Pencil by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6109/6320255826_0d84c614da_z.jpg" width="640" height="480" alt="Sea Pencil"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6319734435/" title="C360_2011-11-0513-04-27 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6218/6319734435_52f2227352_z.jpg" width="640" height="480" alt="C360_2011-11-0513-04-27"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6320254134/" title="C360_2011-11-0512-55-57 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6217/6320254134_80144b1bb4_z.jpg" width="640" height="480" alt="C360_2011-11-0512-55-57"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6320253844/" title="C360_2011-11-0512-54-50 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6116/6320253844_d4f5b99990_z.jpg" width="640" height="480" alt="C360_2011-11-0512-54-50"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6320253596/" title="注意小虾什么的 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6216/6320253596_c2431856c2_z.jpg" width="640" height="480" alt="注意小虾什么的"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6320252432/" title="C360_2011-11-0512-46-55 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6101/6320252432_f83e2d1d95_z.jpg" width="480" height="640" alt="C360_2011-11-0512-46-55"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6319730469/" title="C360_2011-11-0512-40-07 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6232/6319730469_67eab7fa74_z.jpg" width="480" height="640" alt="C360_2011-11-0512-40-07"></a>
+<a href="http://www.flickr.com/photos/twzh_ly01/6319729359/" title="C360_2011-11-0512-34-24 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6117/6319729359_28cd8bca1c_z.jpg" width="480" height="640" alt="C360_2011-11-0512-34-24"></a>
+
+测试虾米：
+`<embed src="http://www.xiami.com/widget/0_1003912/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>`
+
+blog:datetime=2011/11/06 14:47:14:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
