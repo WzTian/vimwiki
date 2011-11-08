@@ -11,4 +11,5 @@
 - [[responce to MT2 review questions]]
 - [[GSI review session for MT2]]
 - [[oct 31 lec]]
+- [[1107lec]]
 

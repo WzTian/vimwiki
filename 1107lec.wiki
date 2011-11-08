@@ -1,0 +1,43 @@
+%title primary productivity and plankton
+
+
+=primary productivity and plankton=
+
+# primary productivity
+# limiting factors
+# plankton
+# food webs
+# planton races
+
+Two methods of primary production:
+- photosynthesis :surface ocean `6CO2+6H2O -> c6h12o6 + 6o2`
+- chemosynthesis :deep ocean `co2+02+24h2s -> c6h12o6 + 24s + 18 h2o`
+
+limiting factor: light
+- 0~70 meters ehphotic zone 1% light level(shallower in SF bay) photosynthesis can occur
+- 70~600 m disphotic zone
+- (THe first two are called photic zone)
+- 600~bottom Aphotic Zone
+
+limiting nutrients:
+- nitrogen: cellular metabolics, proteins
+- phosphate: buiding large molecules within the cell
+- silicon: Diatons and radiolarians(build the sturctures)
+- iron: photosynthesis(limited far from continental sources)
+
+Three loops:
+- rapid cycling of nutrients in surface water
+- slower in deep water(thermohaline:1400yr)
+- slower still if reaches ocean sediments(hundreds of million of years)
+
+Compensation depth :: depth where primary production equals respiration
+critical depth :: the depth at which the intergrated primary productivity above that depth equals the integrated respiration above that depth
+A phytoplankton bloom occur when the mixing depth shallows.
+
+Plankton :: organisms, usually small, drift with currents
+- mostly microscopic
+- live in surface ocean
+- either primary producers or consumers
+blog:datetime=2011/11/07 10:09:52:tags
+
+[[index|HOME]]   [[Work]]
