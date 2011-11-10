@@ -1,0 +1,61 @@
+%title lec1109
+
+
+=lec1109=
+
+# What are those seen on monday
+# recap on primary production
+# energy flow through the food web
+# the ocean cycle thermo biotic
+# carbon flux explorer video hourly variations of sedimentation
+
+On monday, the "big thing" is sea louse.
+
+In euphotic Zone, sufficient light. the lower bondary of euphotic zone is the compensation depth(70m)
+The critical depth is where the integrated primary production == integrated primary production.
+
+Nitrate concentration is almost zero near the surface of sea water. 
+Deep mixing and upwelling bring high concentration of nutrients to surface
+=====WHY?=====
+# ocean is stratified 
+# the upper layer is depleted with nutrients 
+The organic matter sink to bottom. 
+pH of surface water go up. pH of bottom water go down
+
+====Upwelling(EKman)====
+# coastlines
+# equators
+# poles(southern ocean)\
+
+====Deep mixing====
+Termperate and sub-polar regions
+- winter
+    -
+
+====Primary production====
+- more than 90% tiny phytoplankton in open ocean
+- 2~5% Algae (seaweed near shore
+- 1-2% chemo synthesis
+
+Planktons are efficient, but gets eaten everyday.
+
+===Recall===
+# Energy flows through living systems(from some external source to primary producers to consumers and back
+# matter is conserved (carbong and nutrients cycles)
+# individuals in ecosystems respond to factors and forces that evolve over time.
+
+=====Trophic levels=====
+feeding relationships
+1 mid sized fish consume 1000 times it's weight of plankton
+
+===Ocean concepts===
+- ocean is stratified in most locations(except polar seas).
+- phytoplankton half of global photo synthesis
+- ocean photosynthesis limited by light N P and trace elements(eg Fe)
+
+The biologic pump transport CO2 into deep sea *FAST*
+_IS it stable_
+
+blog:datetime=2011/11/09 10:13:50:tags=
+
+[[index|HOME]]   [[Work]]
