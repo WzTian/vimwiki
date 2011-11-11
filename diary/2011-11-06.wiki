@@ -19,7 +19,7 @@
 <a href="http://www.flickr.com/photos/twzh_ly01/6319729359/" title="C360_2011-11-0512-34-24 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6117/6319729359_28cd8bca1c_z.jpg" width="480" height="640" alt="C360_2011-11-0512-34-24"></a>
 
 测试虾米：
-`<embed src="http://www.xiami.com/widget/0_1003912/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed>`
+`</code><embed src="http://www.xiami.com/widget/0_1003912/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><code>`
 
 blog:datetime=2011/11/06 14:47:14:tags=
 
