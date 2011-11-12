@@ -8,5 +8,6 @@
 - TeX
 - [[终于花时间把博客美化了一下]]
 - GoogleFontsApi
+- [[Vim 和 x 剪贴板]]
 
 [[index|HOME]]  
