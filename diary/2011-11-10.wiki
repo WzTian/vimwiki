@@ -1,0 +1,42 @@
+%title 又有一个三日周末了呢
+
+
+=又有一个三日周末了呢=
+
+由于十一月十一号是老兵节，周五放假。
+
+借这个机会把离散数学全面复习一下，老师讲的还是偏简单了，内容又有点杂，midterm还是没太大把握呢。
+
+这一周都感冒了，今天还有一点……明天大概好了。感冒起来就不是那么有效率了……
+
+哲学书亚里士多德的部分比较涩，老师居然会说出“其实没有人能理解这一章”这种话……周末狠下心复习一遍吧……
+
+乔布斯多年前丢失的采访录像出现了，还是想看一下的。landmark 在附近有几家影院，到时候看看谁的时间好。
+
+微积分第二次期中是满分，~~可惜~~一道证明题，老师没有写明一定要证明（离散数学老师教导我们不证明不算做数学题啊……），内疚之下把那道题
+分值大大缩水了，导致平均分虚高…………~~我这心思多邪恶啊~~
+
+----
+
+今天突然想到如果我初三时（是初三么）没有在verycd看到那张opensuse的截图，从此人生和linux没有交点，会是什么样子呢……~~大概不会这么宅吧~~
+
+上次放歌没有反响，这次再放一首！！
+`</code><embed src="http://www.xiami.com/widget/0_1003989/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><code>`
+
+----
+
+發現了firebug這個神器,把博客改成了眾望所歸的淺色調(fcitx打繁體好方便啊)
+
+blog:datetime=2011/11/10 22:48:00:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
+
