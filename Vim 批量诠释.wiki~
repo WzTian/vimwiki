@@ -6,7 +6,18 @@
 今天改host，vim 把加入的地址都自动诠释了，于是了解了一下批量诠释/反诠释的方法。
 
 # 命令模式下选中诠释所在的列，如`//`者则先按v进入可视模式，再选中其两列。
-# 
+# C-v 进入列编辑模式，用移动命令选中你要操作的行，反诠释按d，诠释按I再输入相应的诠释符，Esc。
 
-blog:datetime=2011/08/11 20:23:18:tags=
+这个很基础，拖到现在才了解完全是惰性所致。 
+
+blog:datetime=2011/08/11 20:23:18:tags=vim
+
+[[index|HOME]]   TechNotes
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
 

@@ -10,6 +10,10 @@
 
 这个很基础，拖到现在才了解完全是惰性所致。 
 
+----
+
+有了Nerd Commenter,不用这样诠释了,但列编辑还是好的啊
+
 blog:datetime=2011/08/11 20:23:18:tags=vim
 
 [[index|HOME]]   TechNotes
