@@ -1,0 +1,89 @@
+%title characteristic equation and generating function
+
+
+=characteristic equation and generating function=
+
+%toc
+
+==Characteristic equation==
+特征方程能解决线性的递归关系。
+如：
+    a,,n,, = c,,1,,a,,n-1,,+ c,,2,,a,,n-2,, + ... + c,,k,,a,,n-k,,
+其特征方程为：
+    r^k^-c,,1,,r^k-1^-c,,2,,r^k-2^-...-c,,k,,r^0^=0
+当这个方程有k个独特解r,,1,,到r,,k,,时，a,,n,,满足以下关系：
+    a,,n,,=j,,1,,r,,1,,^n^+j,,2,,r,,2,,^n^+...+j,,k,,r,,k,,^n^
+其中j,,1,,到j,,k,,为常数。要得到其数值，将给定的a,,1,,到a,,k,,值带入上式，
+解k元一次方程组。
+
+如果特征方程有t个独特解r,,1,,到r,,t,,，每个独特解r,,i,,重复m,,i,,次，则a,,n,,满足下列关系：
+    a,,n,, = (j,,1.0,,+j,,1.1,,n+...+j,,1.m(1)-1,,n^m,,1,,-1^)r,,1,,^n^<br>
+    + (j,,2.0,,+j,,2.1,,n+...j,,2.m(2)-1,,n^m,,2,,-1^)r,,2,,^n^<br>
+    + ... + (j,,t.0,,+j,,t.1,,n+...j,,t.m(t)-1,,n^m,,t,,-1^)r,,t,,^n^
+同样是有k个j,,i.h,,，解方程既可求得。
+
+对于k=2,特征方程两个独特解的情况给出一个简单证明：
+    首先，证明如果a,,n,,=j,,1,,r,,1,,^n^+j,,2,,r,,2,,^n^，则{a,,n,,}符合递归关系。<br>
+    注意r^2^=c,,1,,r+c,,2,,，得出r,,1,,^2^=c,,1,,r,,1,,+c,,2,,，r,,2,,^2^=c,,1,,r,,2,,+c,,2,,<br>
+    于是有：<br>
+    c,,1,,a,,n-1,,+c,,2,,a,,n-2,,=c,,1,,(j,,1,,r,,1,,^n-1^+j,,2,,r,,2,,^n-2^)+c,,2,,(j,,1,,r,,1,,^n-2^+j,,2,,r,,2,,^n-2^)<br>
+    =j,,1,,r,,1,,^n-2^(c,,1,,r,,1,,+c,,2,,)+j,,2,,r,,2,,^n-2^(c,,1,,r,,2,,+c,,2,,)<br>
+    =j,,1,,r,,1,,^n-2^r,,1,,^2^+j,,2,,r,,2,,^n-2^r,,2,,^2^<br>
+    =j,,1,,r,,1,,^n^+j,,2,,r,,2,,^n^<br>
+    =a,,n,,<br>
+    第二步，证明存在这样的{a,,n,,}中的j,,1,,，j,,2,,，符合给出的初始a,,0,,=C,,0,,，a,,1,,=C,,1,,。<br>
+    只需解出j,,1,,，j,,2,,的值即可。
+    
+==Generating function==
+
+定义：对于一个数列a,,1,,，a,,2,,，...，a,,k,,...，其生成函数为：
+    G(x)=sum(a,,k,,x^k^) for k = 0 to infinity
+这里的x没有实际意义，只是位置的标记。
+现在还看不出有什么用，先求几个数列的试试。<br>
+    数列为 1,1,1,1<br>
+    G(x)=1+x+x^2^+x^3^=(1-x^4^)/(1-x)
+
+    数列为1,1,1,1,.....<br>
+    G(x)=1+x+x^2^+x^3^+...=1/(1-x)
+
+    数列为1,a,a^2^,a^3^,.....<br>
+    G(x)=1+ax+a^2^x^2^+.....=1/(1-ax)
+
+    数列为1,2a,3a^2^,4a^3^,.....<br>
+    G(x)=1+2ax+3a^2^x^2^+.....=1/(1-ax)^2^
+
+这里重点介绍其在解递归关系上的应用，故省略部分二项式定理内容
+
+例： a,,n,,=8a,,n-1,,+10^n-1^  a,,1,,=9
+    第一步，等式两边乘以x^n^，方便凑成生成函数。<br>
+    a,,n,,x^n^=8a,,n-1,,x^n^+10^n-1^x^n^<br>
+    为了便于计算，设a,,0,,=1<br>
+    G(x)-1=sum(a,,n,,x^n^) for n=1 to infinity<br>
+    = sum(8a,,n-1,,x^n^+10^n-1^x^n^) for n=1 to infinity
+    = 8x*sum(a,,n-1,,x^n-1^)+x*sum(10^n-1^x^n-1^) for n=1 to infinity
+    = 8x*sum(a,,n,,x^n^)+x*sum((10x)^n^) for n=0 to infinity
+    = 8x(G(x)) + x/(1-10x)
+    解得G(x)=(1-9x)/((1-8x)(1-10x))=*=1/2(1/(1-8x)+1/(1-10x))
+    所以G(x)=1/2(sum((8x)^n^)+sum((10x)^n^)) for n = 0 to infinity
+    G(x)=sum(1/2(8^n^+10^n^)x^n^) for n = 0 to infinity
+    所以，根据定义，a,,n,,=1/2(8^n^+10^n^)
+    
+=*=一步可以推广，用部分分数的结论。
+总的思路是，用递归关系解出生成函数，变形成为已知的生成函数的组合，再套出通项公式。
+
+----
+
+这是我期中复习做总结的，不是很详细。
+    
+blog:datetime=2011/11/14 21:24:10:tags=
+
+[[index|HOME]]     FunStuff
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
