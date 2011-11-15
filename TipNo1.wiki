@@ -1,0 +1,24 @@
+
+%title 如题
+
+
+=如题=
+
+这个公式谁都知道：
+ <a href="http://www.flickr.com/photos/twzh_ly01/6346753804/" title="wolframalpha-20111114230720326 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6044/6346753804_446da285ae_z.jpg" width="590" height="109" alt="wolframalpha-20111114230720326"></a>
+这个公式也是谁都知道：
+<a href="http://www.flickr.com/photos/twzh_ly01/6346753820/" title="wolframalpha-20111114230847134 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6231/6346753820_b43784e216_z.jpg" width="590" height="109" alt="wolframalpha-20111114230847134"></a>
+从第一个公式证第二个，只需一步：
+<a href="http://www.flickr.com/photos/twzh_ly01/6346753852/" title="wolframalpha-20111114231033283 by koffeecup, on Flickr"><img src="http://farm7.static.flickr.com/6234/6346753852_f8026798a9_z.jpg" width="590" height="109" alt="wolframalpha-20111114231033283"></a>
+blog:datetime=2011/11/14 21:04:12:tags=
+
+[[index|HOME]]     FunStuff
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+

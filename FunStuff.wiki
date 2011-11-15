@@ -4,6 +4,7 @@
 =Fun Stuff=
 
 - [[Monty Hall Puzzle]] 三门问题
+- [[TipNo1]] 用求导方法求和数列
 
 
 [[index|Home]]
