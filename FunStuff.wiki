@@ -5,7 +5,7 @@
 
 - [[Monty Hall Puzzle]] 三门问题
 - [[TipNo1]] 用求导方法求和数列
-- [[TipNo2]] 两种程式化的求数列表达式方法
+- [[TipNo2]] 两种程式化的求通项公式方法
 
 
 [[index|Home]]

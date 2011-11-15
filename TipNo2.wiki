@@ -59,13 +59,13 @@
     a,,n,,x^n^=8a,,n-1,,x^n^+10^n-1^x^n^<br>
     为了便于计算，设a,,0,,=1<br>
     G(x)-1=sum(a,,n,,x^n^) for n=1 to infinity<br>
-    = sum(8a,,n-1,,x^n^+10^n-1^x^n^) for n=1 to infinity
-    = 8x*sum(a,,n-1,,x^n-1^)+x*sum(10^n-1^x^n-1^) for n=1 to infinity
-    = 8x*sum(a,,n,,x^n^)+x*sum((10x)^n^) for n=0 to infinity
-    = 8x(G(x)) + x/(1-10x)
-    解得G(x)=(1-9x)/((1-8x)(1-10x))=*=1/2(1/(1-8x)+1/(1-10x))
-    所以G(x)=1/2(sum((8x)^n^)+sum((10x)^n^)) for n = 0 to infinity
-    G(x)=sum(1/2(8^n^+10^n^)x^n^) for n = 0 to infinity
+    = sum(8a,,n-1,,x^n^+10^n-1^x^n^) for n=1 to infinity<br>
+    = 8x*sum(a,,n-1,,x^n-1^)+x*sum(10^n-1^x^n-1^) for n=1 to infinity<br>
+    = 8x*sum(a,,n,,x^n^)+x*sum((10x)^n^) for n=0 to infinity<br>
+    = 8x(G(x)) + x/(1-10x)<br>
+    解得G(x)=(1-9x)/((1-8x)(1-10x))=*=1/2(1/(1-8x)+1/(1-10x))<br>
+    所以G(x)=1/2(sum((8x)^n^)+sum((10x)^n^)) for n = 0 to infinity<br>
+    G(x)=sum(1/2(8^n^+10^n^)x^n^) for n = 0 to infinity<br>
     所以，根据定义，a,,n,,=1/2(8^n^+10^n^)
     
 =*=一步可以推广，用部分分数的结论。
