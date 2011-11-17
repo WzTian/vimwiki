@@ -1,0 +1,32 @@
+%title 无题
+
+
+=无题=
+
+今天又是大罢工。还出了一起枪击事件，据说与抗议无关。
+
+一些同学评论校长虚伪，却不知他们罢课，唱歌跳舞的时候，校长在惨兮兮的到处找人要钱，确保他们还有课可罢。
+大概是一些收压迫的青春期的愤怒残存至今的结果吧，总有一些人对于所谓权威位置上的人物带一副有色眼镜，
+总觉得自己不负责任，就有资格要求别人也去不负责任，一切混乱中见分晓。这种为了热血而“革命”的，
+是人类历史上永恒的祸害。
+
+上一次看Black Power Mixtape，里面有一句话说得好：Black is beautiful, but black isn't power, knowledge is power.
+为了展现自己所谓的power而罢课，实在是抛弃自己最有力的武器。
+
+尼可马各伦理学里面，亚里士多德说政治科学的本质使我们对其的精确度不能有太高要求。这种观点的流毒之一就是，
+许多人认为好的政治理论，不需要太多细致的分析，只要有一个诱人的纲领，一些嘹亮的口号;之二就是使得社科学者
+对于数学的分析有着抵触情绪，哪怕数学工具已经相当强大。H.L.Mencken说过：For every question, there is an
+answer that is clear, simple, and *wrong*. 作为相当半个知识分子的大学生，我们的思考不应只该停留在这一步。
+
+blog:datetime=2011/11/15 23:44:11:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
