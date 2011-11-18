@@ -18,6 +18,11 @@
 对于数学的分析有着抵触情绪，哪怕数学工具已经相当强大。H.L.Mencken说过：For every question, there is an
 answer that is clear, simple, and *wrong*. 作为相当半个知识分子的大学生，我们的思考不应只该停留在这一步。
 
+----
+
+离散数学老师第二次期中放水啊，平均都到了88……GSI估计众数100或97……
+<br>humble bundle真不错。
+
 blog:datetime=2011/11/15 23:44:11:tags=
 
 [[../index|HOME]]   [[diary|Diary]]
