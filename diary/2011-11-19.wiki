@@ -33,6 +33,7 @@ sizeofstuff()
     fi
 }
 }}}
+用来看文件大小方便一点。
 
 blog:datetime=2011/11/19 00:05:26:tags=
 

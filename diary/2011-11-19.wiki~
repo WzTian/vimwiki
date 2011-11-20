@@ -22,7 +22,18 @@ apvlv秒杀了zathura，看pdf终于变成一件舒服的事情了。
 ----
 `ssh-agent`设置好了之后不用每次`git push`都输密码了。
 在`.zshrc`里加了这样一个函数：
-{{{class="brush:bash";
+{{{class="brush:bash;"
+# see the size of the files and folders in a readable format
+sizeofstuff()
+{
+    if [ -n "$1" ]; then
+        du -hac -d $1 | sort -hr | less
+    else 
+        du -hac -d 1 | sort -hr | less
+    fi
+}
+}}}
+
 blog:datetime=2011/11/19 00:05:26:tags=
 
 [[../index|HOME]]   [[diary|Diary]]
