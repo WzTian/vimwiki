@@ -1,0 +1,40 @@
+%title Coastal communities and fisheries
+
+
+=Coastal communities and fisheries=
+%toc
+
+==what is community==
+===habitat===
+===niche===
+===population===
+===community===
+==Coastal communities==
+Major abiotic conditions
+- substrate
+- tides
+- other waves
+Major biotic conditions
+- land based predation at low tide
+-
+===mudflat===
+along depositional coasts(passive margins)(near rivers /estuaries)
+epifauna :: organisms live on the sediment surfacea(or on the surface of other organisms
+infauna :: organisms live below sediment surface
+===mangrove community===
+(mangrove produce *seedlings* )(tropical warm water)
+===rocky intertidal===
+(along erosional coasts _active margins_
+intertidal zonation :: the vertical diestribution of organisms due to the tieds and wave action
+adaptation:
+# behavioral (snails move with tides)
+# physiological
+# structural(holdfasts)
+===kelp forest===
+temperate latitudes in *cold* water
+===fisheries===
+
+
+blog:datetime=2011/11/21 10:09:24:tags=
+
+[[index|HOME]]   [[Work]]
