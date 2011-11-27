@@ -6,14 +6,14 @@
 vim的开发者Bram Moolenaar明确的表示了不会在主线的vim里
 整合shell，但这并不妨碍有志者进行拓展。
 
-==python的VimSh==
+==python的!VimSh==
 http://www.vim.org/scripts/script.php?script_id=165
 
 这个是我最先找到的，bash的确跑起来了，但prompt样式怪异，
 `ls`之后目录显示也有问题，应该是色彩设置上不支持，用了一会
 还有各种各样的问题，基本没有什么可用性。
 
-==ConqueTerm==
+==!ConqueTerm==
 
 这个是Linux Toy上介绍的，今天试用了一会儿，觉得非常好用，反应速度也还好，
 中文，色彩，一切正常。
