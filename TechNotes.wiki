@@ -10,5 +10,6 @@
 - GoogleFontsApi
 - [[Vim 和 x 剪贴板]]
 - [[diary/2011-11-14|Zsh]]
+- [[Vim_and_shell|在vim里整合shell的小结]]
 
 [[index|HOME]]  
