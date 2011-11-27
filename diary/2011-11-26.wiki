@@ -1,0 +1,41 @@
+%title 无题
+
+
+=无题=
+
+发现自己时间利用上还是有问题呢，放假前两天觉得时间多就没有怎么动作业，
+而是看罪与罚/编程/看鸟哥私房菜……到了今天才写完哲学论文，写完这篇博客
+再去解决C82的报告……（话说这个哲学论文先是说7号交，又是说2号交，真正
+发下来白纸黑字又写的30号交，他能再不靠谱一点吗！）Afri Study的论文说是
+八号交，要是也有变数就不妙了……
+
+----
+
+vim这个编辑器真是越用越舒服呢，学到的正则表达式用在搜索里面感觉极好，
+又把两台电脑的邮件客户端的默认编辑器都换成了gvim，写邮件也是享受了……
+（话说我还想折腾mutt什么的，结果那设置实在繁琐，一怒就装了claws-mail）
+一位同学开始学c了，用的是vs吧，想推荐vim给她，但又想想不是每个人都有时间、
+精力折腾插件啊，`.vimrc`啊什么的，加之windows下又有潜在的编码问题，
+到时候别人一看一堆乱码以为是废品软件，我可就坏了神器的名声了……
+
+----
+
+看了奥森 威尔斯的《阿卡丁先生》，觉得威尔斯真的是一个天才（苦于找不到更高一级
+的说法），真正可以随心所欲地拍出伟大的电影（当然这只是我的感觉，听说
+真正拍片的时候他对细节的要求不是一般的严格）。他的每一个运动镜头都充满能量，
+但比起赛缪尔 富勒那种能量都要溢出来的感觉，要更加的收放自如，也更有魅力。
+他的静态镜头多为不对称布局，可谓静中有动，他的电影真正是流动的艺术。
+~~（最后，fuck环球影视一万遍！！！）~~
+
+blog:datetime=2011/11/26 21:30:42:tags=orson welles
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
