@@ -1,0 +1,70 @@
+%title pollution
+
+
+=pollution=
+%toc
+
+Biological amplification of Toxins(high level of toxin in higher trophic level)
+==What is pollution==
+pollutant :: sth that interferes with natural biogeochemical processes of organisms
+marine pollution :: ocean input of substanceso or energy that changes the quality of the water or affect the physical or biological environment
+44% from land 33% airbone from land 12 shipping, spill; 10% ocean dumping
+===major marine pollutants===
+- plastic
+- oil
+- sewage
+- pestacides
+- noise
+- temperature
+===Thre characterisitics===
+# quatity amount of substance
+# toxicity amount that cause damage
+# persistence length of time that persists
+==oil pollution==
+===where it comes from===
+Six ways oil gets into ocean
+- rotines maintenance (No.2)
+- accidental spills (No.4)
+- natural seeps of oil (No.1)
+- oil from land sources (No.3)(cars ...runoff)
+- air pollutants (No.5)
+- offshroe drilling operations (No.6)
+Top 3 worst spill
+# arabian gulf/kuwait, persian gulf (jan 19, 1991): 380-520 mil gallon
+# deep water horizon 2010 185
+# Ixtoc 1 oil well gulf of mexicao 
+===how do we clean it===
+====Dispersal processes====
+evaporation, phtolochemical reaction, bacterial decomposition, dilution
+====factors that influence====
+type of oil, light or crude
+====ways to deal with...====
+# disperse, break it down into smaller particles using chemical(some harmful)
+# skim, mechanically take oi off surface of the water
+# contain mechanically stop oil with booms
+# burn,
+=====Which is best=====
+depend on objectives:
+- protect specific region?
+- remove oil from surface?
+depends on ocean conditions
+- calm of windy
+- which derection are currents
+- *all have tradoffs*
+===impacts on wild life===
+==plastic pollution==
+americans generate 240 lbs of plastice waste per year
+===where from===
+The burdle :: pertoleum based plastic pellet from with plastic products are derived
+===impacts===
+entrapment, stragulation, starvation
+
+plastic particles in the ocean adsorb pllutants , concentrating 
+them at the surface (inverse sediments)
+==Nutrient pollution==
+===Where it comes from===
+==ocean acidification==
+
+blog:datetime=2011/11/28 10:13:49:tags=
+
+[[index|HOME]]   [[Work]]
