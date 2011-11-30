@@ -40,7 +40,7 @@ Interested in philosophy, good movies and GNU/Linux. Wish to declare major in ph
 
 ----
 ===NO IE PLEASE!===
-
+`<a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc/2.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/">Creative Commons Attribution-NonCommercial 2.0 Generic License</a>.`
 Powered by [http://code.google.com/p/vimwiki/ Vimwiki ] and [http://github.com github ]
 USING [http://freedns.afraid.org Freedns]
 <a href="http://code.google.com/p/fcitx"><img src="https://static.csslayer.tk/wordpress/wp-content/uploads/2011/11/fcitx-microbutton.png" alt="fcitx"> </a><br>
