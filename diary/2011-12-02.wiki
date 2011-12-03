@@ -1,0 +1,29 @@
+%title 复习
+
+
+=复习=
+
+下周是复习周，课程停止，但GSI和部分教授会开review session，
+
+离散数学主要是数论那块有点没底，想不起来费马小定理是怎么证的了……概率、组合数学方面做
+一些难题，应该就没什么问题。
+
+上次海洋学期中，考了87，虽然老师后来转换成101（满分100），心里还是不舒服……结果
+今天仔细看一下试卷，居然有8分的送分题被我漏掉了啊……
+
+哲学paper最终还是7号交……但好像也没什么改的了……
+
+五号开始第二轮选课，看看手气如何吧。
+
+blog:datetime=2011/12/02 16:23:44:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
