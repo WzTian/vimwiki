@@ -1,0 +1,28 @@
+%title Resizing splited windows in Vim
+
+
+=Resizing splited windows in Vim=
+
+我终端里的vim不能用鼠标拖拽来控制window大小，看了一下文档，总结一下。
+（以下内容均在`:help window-resize`中。）
+
+# `C-W =` 把各窗口尽量变成同一大小。
+# `N C-W -` 或者 `:res[ize] -N` ，把当前窗口高度减N，加号同理。（默认N为1）
+# `C-W C-_`或者`C-W _` 会把当前窗口高度最大化，同`:resize`。
+# `:resize N` 和 `z{N}<cr>` 把窗口高度设为N，如同`N C-W C-_` 或 `N C-W _`。
+# 以上三项之前输入 `:vertical`则设置宽度。
+# `N C-W <` 减少宽度N，`N C-W >`增加宽度N。（默认N为1）
+# `N C-W |`设置宽度为N，默认到最宽为止。
+
+blog:datetime=2011/12/05 09:16:43:tags=
+
+[[index|HOME]]   TechNotes
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
