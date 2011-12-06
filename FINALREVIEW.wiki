@@ -1,0 +1,55 @@
+%title FINALREVIEW
+
+
+=FINALREVIEW=
+
+(important! MT 1,2, review questions!)
+==List of topics==
+(synthesis questions!)
+- Photosynthesis, chemosynthesis (equations! where! definition!)
+- primary productivity: def, where high? why? (the diagram wiith photosynthesis and respiration!)
+- food webs, tropic efficiency(calculation!)
+- deep sea(bioluminecence? use? defensive? offensive?)
+- diel vertical migration.
+- coral, atol formation (symbiosis, where, why)
+- different kinds of communities(def of habitat, comunity, ,..)(why is A somewhere??)
+- MAPS!!
+
+===carbon===
+- major reactions: (abiotic, biotic, )
+- abiotic: CO2 + H2O --> H2CO3 --> H+ HCO3- --> 2H+ CO3(2-) (They are DIC!!)(review *that diagram*)
+- abiotic: !CaCO3 ---> Ca 2+  CO3 2-
+- biotic: photosynthesis: CO2 + H2O --> (CH2O) + O2
+- biotic: respiration : (CH2O) + O2 --> CO2 + H2O
+- biotic: precipitation: 2 HCO3- + Ca 2+ --> !CaCO3 + H2O + CO2
+- solubility product: Ksb =/>/< c(HCO3-)*c(CO3 2-)
+- deep in ocean : undersaturated, surface, supersaturated. (CSD : saturation depth)
+- CCD: compensation depth: the depth at which the settling rate equals the disolution depth(below CSD)
+- *the diagram with carbon reservoirs !!!* PIC, POC, DIC, DOC...
+
+===waves===
+- types of waves: capilary , wind waves, tsunami, tides...(review the diagram in book for dis/res force) 
+- deep water wave: determined by wavelength; shallow water wave: dependent on depth.
+            
+===gyres===
+- review figure 9.88 238 !!
+- surfave vs. thermohaline (draw them!!)
+- upwelling vs. downselling (ekman transport!!)
+- coriolis force! hadly ferral polar cells!
+- wind directions! (east wind come from east)
+- residence time (equation!)
+- thermal/pycnocline! review the *diagram*! (notice difference between different lattitudes!)
+- 1 deg latt = 110 km  ; 1 deg long = 110 * cos(latt)km (*REMEMBER*)
+===tectontics===
+- 3.10, layers of composition!
+- *types of boundaries !!(table 3.1)*
+
+===pollutant===
+- 3 characteristics!
+- plastics!
+- CO2 's influence on ocean's chemistry and biology
+
+blog:datetime=2011/12/06 10:06:07:tags=REVIEW
+
+[[index|HOME]]   [[Work]]
+
