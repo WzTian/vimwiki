@@ -47,4 +47,4 @@ Powered by [http://code.google.com/p/vimwiki/ Vimwiki ] and [http://github.com g
 USING [http://freedns.afraid.org Freedns]
 <a href="http://code.google.com/p/fcitx"><img src="https://static.csslayer.tk/wordpress/wp-content/uploads/2011/11/fcitx-microbutton.png" alt="fcitx"> </a><br>
 
-[[404]]
+[[404]]<br>[[search]]

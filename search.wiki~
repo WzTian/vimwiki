@@ -1,12 +1,11 @@
 <div id="cse" style="width: 50%;margin-left:auto;margin-right:0;">Loading</div>
 <script src="//www.google.com/jsapi" type="text/javascript"></script>
 <script type="text/javascript"> 
-  google.load('search', '1', {language : 'en', style : google.loader.themes.ESPRESSO});
-  google.setOnLoadCallback(function() {
-    var customSearchControl = new google.search.CustomSearchControl(
-      '015489726591559219580:miif_q4sya4');
-
-    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
-    customSearchControl.draw('cse');
-  }, true);
+google.load('search', '1', {language : 'en', style : google.loader.themes.ESPRESSO});
+google.setOnLoadCallback(function() {
+var customSearchControl = new google.search.CustomSearchControl(
+'015489726591559219580:miif_q4sya4');
+customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+customSearchControl.draw('cse');
+}, true);
 </script>
