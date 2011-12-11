@@ -1,0 +1,52 @@
+%title 生日
+
+
+=生日=
+
+到底是今天还是明天算是生日呢？按日期是明天，但我是东八区生的，时区变化
+里丢掉的十几小时现在就讨厌人了……
+
+----
+
+后天第一个期末考，海洋学，问题应该不大，明天再过一遍。后天的Afri Study
+27AC考试给我们看了一些样题，和时事（就是那些occupy XXX啦！）结合很多，
+要好好想想，不过这门是P/NP的，不很怕（前两个MT都是满分的说～）。
+
+----
+
+我下学期的课：
+- math1B，单变量微积分（继续） 4学分
+- Slavic 1，俄语 5学分
+- Comparative Literature R1A，写作课 4学分
+- physics 7a，总算有物理课了！！ 4学分
+
+----
+
+室友的作息太崩溃了，早上睡到下午（^#%^!@*），这种生物钟咋考试啊！
+
+----
+
+Bayporter的车订好了，早上8点半走，九点半到，11点50的飞机应该还是靠谱的。
+
+----
+
+用freetype2-infinality把两台电脑的字体渲染带到了一个新的高度！能换配色的
+地方都换上了solarized，感觉无比舒畅。
+
+----
+
+今天帮助 ~~英明神武~~ @CSSlayer先生抓出了一个fcitx的bug，开心啊，虽然没有
+做任何有技术含量的事，也算为开源做贡献了……
+
+blog:datetime=2011/12/10 19:15:59:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
