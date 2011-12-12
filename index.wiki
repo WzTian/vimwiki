@@ -4,7 +4,7 @@
 ===Categories/分类===
     - [[diary/diary|Gibberish]] 碎碎念
     - TechNotes--技术--me and my linux box.
-    - [[Work]]
+    - [[work/Work|Work]]
     - MovieReview--Don't read them, please.
     - ChineseCitizens 几位中国公民
     - FunStuff 好玩的
