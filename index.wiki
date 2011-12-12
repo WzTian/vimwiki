@@ -2,7 +2,7 @@
 =Weizhi Tian's Nest=
 ======born in the nick of time======
 ===Categories/分类===
-    - [[diary/diary|Diary]] 日记 keeping notes of the meaningless moments.
+    - [[diary/diary|Gibberish]] 碎碎念
     - TechNotes--技术--me and my linux box.
     - [[Work]]
     - MovieReview--Don't read them, please.
