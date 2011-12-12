@@ -5,7 +5,7 @@
 
 ~~音乐要用chrome才能听，火狐对不住了。~~
 
-`</code><iframe frameborder='0' height='100' width='60%' src='http://min.us/mIhj81jsT#1e'></iframe><code>`
+<iframe frameborder='0' height='100' width='60%' src='http://min.us/mIhj81jsT#1e'></iframe>
 
 "L'armée des ombres"，译名影子军队，是Jean-Pierre Melville的晚期作品，讲的是二战维希法国地下抵抗运动的故事。
 
