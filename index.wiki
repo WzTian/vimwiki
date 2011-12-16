@@ -1,6 +1,6 @@
 %title WzTian主页
 =Weizhi Tian's Nest=
-======born in the nick of time======
+======Fiat Lux======
 ===Categories/分类===
     - [[diary/diary|Gibberish]] 碎碎念
     - TechNotes--技术--me and my linux box.
