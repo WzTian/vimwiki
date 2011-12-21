@@ -12,5 +12,6 @@
 - [[diary/2011-11-14|Zsh]]
 - [[Vim_and_shell|在vim里整合shell的小结]]
 - [[Resizeing splited windows in Vim]]
+- [[arch-netcat-slimv-mitsheme]]
 
 [[index|HOME]]  
