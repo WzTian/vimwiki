@@ -1,0 +1,28 @@
+%title 新学期华丽丽的开始了
+
+
+=新学期华丽丽的开始了=
+
+这个博客在假期间果断的放到长草了，大概是出于一种写了也不会有人看的心理。~~明明是时间都浪费掉了吗！~~
+
+课程在快速步入正轨，这个周末就要有作文写了，学习的状态就一点一点努力找回来吧。
+
+这学期的R1A课程，阅读书目又是福克纳又是莎士比亚又是索福克勒斯，压力巨大啊……只能尽力了。
+
+----
+
+PS. 用windows的同志们记得用ie看一下本站哟，能看到壮观的红色警报哦 (￣ε(#￣)☆((O==(￣▽￣)o
+
+blog:datetime=2012/01/18 16:25:46:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
+
