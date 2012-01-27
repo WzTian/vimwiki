@@ -4,6 +4,7 @@
 =Histart 11=
 
 - [[Jan 24 lec]]
+- [[Jan 26 lec]]
 
 blog:datetime=2012/01/24 09:41:16:tags=
 
