@@ -1,0 +1,42 @@
+%title 用上了emacs
+
+
+=用上了emacs=
+
+==缘起==
+为了检查微积分作业，试用了sage和maxima这两大开源CAS。
+命令界面上，sage的交互性好一些，用的ipython，可以tab补全，
+支持emacs风格的一些快捷键；
+rmaxima提供了readline支持，编辑效率比单纯maxima好一些。
+图形界面上，sage的notebook界面除了反应慢倒也没什么大缺点，
+相比之下wxmaxima要好用一些，大量的菜单项也算是提供了足够的safety net。
+
+但既然要输入文本，还是想把它和编辑器结合起来。由于vim
+干这个比较困难，就试着用了一下emacs。
+
+==轻度折腾==
+
+先放一张emacs在imaxima模式的截图：
+
+[[../images/emacs-imaxima.png]]
+
+安装过程什么的非常顺利，基本上参照 www.emacswiki.org 就万事大吉。
+于是就又装了Evil mode和emacs-w3m（To 家长们：这个就是在emacs里上网用的，看图）。
+
+[[../images/emacs-w3m.png]]
+
+虽然用了evil mode，还是过了一遍Tutorial复习了一遍快捷键。现在在看elisp intro（emacs里
+看info page很漂亮啊）。
+
+blog:datetime=2012/02/03 19:54:06:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
