@@ -7,6 +7,7 @@
 - [[Jan 26 lec]]
 - [[Jan 31 lec]]
 - [[Feb 07 lec]]
+- [[Feb 09 lec]]
 
 blog:datetime=2012/01/24 09:41:16:tags=
 
