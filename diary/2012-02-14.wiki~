@@ -36,7 +36,6 @@
 ----
 
 升kde4.8了之后virtuoso一直发疯，看arch论坛，删掉 `~/.kde4/share/apps/nepomuk/` 就搞定了。
-（顺便说一句，4.8 *很不错* 哦，尤其是dolphin爽快了不止一点点。）
 
 ----
 
