@@ -1,0 +1,54 @@
+%title yasnippet 和 autocomplete
+
+
+=yasnippet 和 autocomplete=
+
+按道理说autocomplete自己支持yasnippet当后端的，但二者的新版本出现了不兼容的情况。
+
+[emacswiki|http://www.emacswiki.org/emacs/AutoComplete ]上有好几个版本的解决方案，我
+试了最后一个，目前工作良好。
+
+{{{class="brush:lisp;"
+
+;;
+;; Put this in your .emacs:
+;; 		(require 'my-yas-funs)
+;;
+;; To use in a given major-mode, e.g., js-mode, use:
+;;		(add-hook 'js-mode-hook (lambda () (yas/minor-mode-on)))
+;;		(add-hook 'js-mode-hook (lambda () (add-to-list 'ac-sources `ac-new-yas-source)))
+;;
+;; Works best with the following:
+;;		(define-key ac-complete-mode-map "\t" 'ac-complete)
+;;		(define-key ac-complete-mode-map "\r" nil)
+;;		(setq yas/trigger-key "TAB")
+;;
+
+(require 'yasnippet)
+
+(defvar yas-candidates nil)
+
+(defun init-yas-candidates ()
+	(let ((table (yas/get-snippet-tables major-mode)))
+		(if table
+		  (let (candidates (list))
+				(mapcar (lambda (mode)          
+				  (maphash (lambda (key value)    
+					(push key candidates))          
+				  (yas/table-hash mode))) 
+				table)				
+			(setq yas-candidates candidates)))))
+			
+			
+(defvar ac-new-yas-source
+	'(	(init . init-yas-candidates)
+		(candidates . yas-candidates)
+		(action . yas/expand)
+		(symbol . "a")))
+
+(provide 'my-yas-funs)
+}}}
+
+blog:datetime=2012/03/07 17:53:42:tags=
+
+
