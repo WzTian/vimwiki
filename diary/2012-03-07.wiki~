@@ -1,0 +1,78 @@
+%title yasnippet 和 autocomplete
+
+
+=yasnippet 和 autocomplete=
+
+按道理说autocomplete自己支持yasnippet当后端的，但二者的新版本出现了不兼容的情况。
+
+[emacswiki|http://www.emacswiki.org/emacs/AutoComplete ]上有好几个版本的解决方案，我
+试了最后一个，目前工作良好。
+
+把这个保存为一个load-path里的文件：
+{{{class="brush:lisp;"
+
+;;
+;; Put this in your .emacs:
+;; 		(require 'my-yas-funs)
+;;
+;; To use in a given major-mode, e.g., js-mode, use:
+;;		(add-hook 'js-mode-hook (lambda () (yas/minor-mode-on)))
+;;		(add-hook 'js-mode-hook (lambda () (add-to-list 'ac-sources `ac-new-yas-source)))
+;;
+;; Works best with the following:
+;;		(define-key ac-complete-mode-map "\t" 'ac-complete)
+;;		(define-key ac-complete-mode-map "\r" nil)
+;;		(setq yas/trigger-key "TAB")
+;;
+
+(require 'yasnippet)
+
+(defvar yas-candidates nil)
+
+(defun init-yas-candidates ()
+	(let ((table (yas/get-snippet-tables major-mode)))
+		(if table
+		  (let (candidates (list))
+				(mapcar (lambda (mode)          
+				  (maphash (lambda (key value)    
+					(push key candidates))          
+				  (yas/table-hash mode))) 
+				table)				
+			(setq yas-candidates candidates)))))
+			
+			
+(defvar ac-new-yas-source
+	'(	(init . init-yas-candidates)
+		(candidates . yas-candidates)
+		(action . yas/expand)
+		(symbol . "a")))
+
+(provide 'my-yas-funs)
+}}}
+然后找它说的那样在`.emacs`里`(require 'my-yas-funs)`，加hook就好了。
+
+----
+
+其实在emacs-lisp-mode里还是没有工作，python-mode里好好的……
+
+----
+
+其实这篇的主要目的是打破那种本博客已死的假象，所以放到日记里来了。
+不说了，今晚要结束《喧嚣与骚动》。
+
+
+blog:datetime=2012/03/07 17:53:42:tags=
+
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
+
+
