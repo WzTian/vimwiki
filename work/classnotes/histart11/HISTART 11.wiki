@@ -11,6 +11,7 @@
 - [[Feb 21 lec]]
 - [[MT-REVIEW_Feb28]]
 - [[Mar_06_lec]]
+- [[Mar_08_lec]]
 
 blog:datetime=2012/01/24 09:41:16:tags=
 
