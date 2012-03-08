@@ -9,7 +9,7 @@
 试了最后一个，目前工作良好。
 
 把这个保存为一个load-path里的文件：
-{{{class="brush:lisp;"
+{{{class="brush:clj;"
 
 ;;
 ;; Put this in your .emacs:
