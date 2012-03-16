@@ -1,0 +1,29 @@
+%title 博客样式更新
+
+
+=博客样式更新=
+
+由于头有点疼，又没有赶着要交的作业，就更新了一下博客的样式。
+
+标题的配色没变，把正文独立成为一个div，加了一个黑暗系的背景。
+
+把syntaxhighlighter去除了，其实本来也没啥用～
+
+主要花时间的地方还是调色，调阴影特效参数。上次在 [[http://vimeo.com/36579366|这里]] 看到Bret Victor
+演示的工具其实在用在这些地方会非常爽快吧。
+
+还是欢迎提意见的，但是不保证采纳哦。 ~~其实多半不会采纳吧……~~
+
+blog:datetime=2012/03/15 22:38:02:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
+
