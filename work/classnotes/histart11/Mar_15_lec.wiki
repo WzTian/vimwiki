@@ -1,0 +1,42 @@
+%title impressionism
+
+
+=impressionism=
+
+(Renoir
+(leisure => identification as a class)
+(countryside => inferences to the transformations in the city)
+)
+
+(Frog park
+(painting in the open air (sketching, on canvas))
+(Monet 
+(painter of modern life)(social ritual)("everyday life")
+    (resistence to editing the anomolies observed)
+(blue:worker)(top hat:elite?))
+(Renoir )
+)
+
+(Train in the countryside
+(interplay of light, foliage)
+)
+
+(Gare saint-lazare
+(the feel of industrialization)
+)
+
+(organic intellectual???)
+
+(Manet
+(artificilaity of painting)
+)
+        
+(Seurat
+(studio)
+(reinventing academy)
+(avoid strokes)
+(systematic, sustaining)
+)
+blog:datetime=2012/03/15 09:45:36:tags=
+
+[[index|HOME]]   [[Work]]
