@@ -1,0 +1,22 @@
+%title 无题
+
+
+=无题=
+
+期中考试就全部结束了，接下来就是复习和写paper。艺术史课阅读突然加量，每周有两百多页，有点不太习惯。
+
+用上了emacs-bzr，考虑有时间用package.el把拓展管理起来……
+
+consolas 字体真心不错。
+
+blog:datetime=2012/04/03 19:12:06:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
