@@ -1,0 +1,31 @@
+%title 推广: weather.el
+
+
+=推广: weather.el=
+
+Emacs 既然都能煮咖啡了，能看一下天气也是在正常不过。
+
+用的是 emacs24，从 marmaladel 源里安装weather包，照着源码里的说明，
+到 http://worldweatheronline.com/ 注册一个免费的 api，把认证邮件里的
+api-key 记下来，然后在 `.emacs` 里 `(require 'weather)` `(setq weather-key "enter-your-api-key")`
+。使用时可以 `M-x weather-report`，然后输入城市名字（美国可以直接用邮编）即可。
+输入`Haikou, Hainan`效果如图：
+
+<a href="http://www.flickr.com/photos/twzh_ly01/6931960358/" title="emacsweather by koffeecup, on Flickr"><img src="http://farm8.staticflickr.com/7256/6931960358_fc2688d643_z.jpg" width="640" height="360" alt="emacsweather"></a>
+
+图中的温度是摄氏，但默认是华氏，作者把这个写死在代码里了，要改的话
+把`weather.el`里面的 `tempMaxF` `tempMinF` `temp_F` 的F改成C，然后
+重新编译elc文件。
+
+blog:datetime=2012/04/14 15:56:49:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
