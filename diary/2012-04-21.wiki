@@ -1,0 +1,83 @@
+%title emacs toggle comment
+
+
+=emacs toggle comment=
+
+如题，写~~抄~~了一个根据当前行/区域是否被诠释而诠释/去诠释的函数。其实
+大概已经有某个package里面有了这个功能了吧，但是居然就是没找到。ll-debug.el里
+有相关的函数，我顺手就抄了过来，如下：
+{{{
+(defun my-one-line-comment-caller (what-to-do)
+  "receives comment-region or uncomment-region and comment
+or uncomment one line respectively" 
+  (save-excursion
+    (beginning-of-line)
+    (push-mark)
+    (end-of-line)
+    (funcall what-to-do (mark) (point))))
+
+(defun comment-one-line ()
+  "comment out one line"
+  (interactive)
+  (my-one-line-comment-caller 'comment-region))
+    
+(defun uncomment-one-line ()
+  "uncomment one line"
+  (interactive)
+  (my-one-line-comment-caller 'uncomment-region))
+
+(defun my-comment-caller (my-cm-region-cmd my-cm-line-cmd)
+  "receives comment or uncomment and do it"
+  (if mark-active
+      (funcall my-cm-region-cmd (region-beginning) (region-end))
+    (funcall my-cm-line-cmd)))
+
+(defun my-comment ()
+  (interactive)
+  (my-comment-caller 'comment-region 'comment-one-line))
+(defun my-uncomment ()
+  (interactive)
+  (my-comment-caller 'uncomment-region 'uncomment-one-line))
+
+(defun my-comment-start ()
+  "Find the comment marker at the beggining of the line or region"
+  (save-excursion
+    (when mark-active (goto-char (region-beginning)))
+    (beginning-of-line)
+    (skip-chars-forward " \t" (point-at-eol))
+    (if (looking-at (regexp-quote comment-start))
+        (point)
+      nil)))
+
+(defun my-toggle-comment ()
+  "Toggle the current line/region between uncommented and commented state."
+  (interactive)
+  (if (my-comment-start)
+      (my-uncomment)
+    (my-comment)))
+
+(evil-leader/set-key "c" 'my-toggle-comment)
+}}}
+现在就可以跟在vim里习惯的一样用leader+c来toggle comment了，话说leader如果设成","的话
+在traisient-mark-mode里面会优先应用在其evil-mode的定义，而不是作为leader，应该算是一个bug
+吧。~~好像修起来也不会很难的样子~~
+
+----
+
+悲剧，本来想把这个放到TechNotes里面的，结果下意识的就新建了日记，写完才想起来……
+删除一个日记还要手动调整那个表格实在太痛苦了，抱歉～
+
+
+blog:datetime=2012/04/21 22:52:53:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
