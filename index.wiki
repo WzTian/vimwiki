@@ -22,7 +22,7 @@
 ----
 
 ===Some interesting blogs===
-[https://csslayer.tk CS Slayer]
+[https://csslayer.info CS Slayer]
 [http://ikde.org I,KDE]
 [http://linuxtoy.org LinuxToy]
 [http://imtx.me I'm TualatriX]<br>
