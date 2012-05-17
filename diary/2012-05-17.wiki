@@ -1,0 +1,45 @@
+%title Sayonara, Awesome
+
+
+=Sayonara, Awesome=
+
+在一个不是那么开心的学期之后，回到了一个让人不那么容易开心
+起来的国家。虽然总是觉得美国从政人士对科学原则与现代技术所采用的投机
+主义会妨害其现存体制在这个时代的可行性，但大概他们再怎么搞砸
+美国也不会变得像现在我国这样混乱吧。
+
+----
+
+出于一个已经忘记的理由（好像是想用kdm），在二手小上网本上装了KDE，意外地非常流畅。
+plasma-netbook的界面很有科技感，对小屏幕也满实用，就是下方的分类程序实在不好用，
+点开某一分类后先出一排图标，半秒之后再跑开，显示出所有图标，让触摸板
+用户产生巨大的挫折感。尽管之前的awesome配置的很好用了，键盘操作效率
+也很高，但KDE的okular，gwenview，dolphin等一众程序还是很吸引人的（zathura
+那个偶尔翻一页都能卡半分钟的货色真心让人忍不了了），再考虑到最近gtk3
+的nm-applet gtk主题报错，gtk2的莫名连不了一切有密码的无线，转到KDE
+作为主桌面环境就很自然了。
+(其实我比较惊讶的是KDE在blur全开，scale method为Accurate的情况下还能在这种
+配置下（Atom 1.6Hz X2， MEM 1GB）很流畅地运行，大概是屠戮者说的4.8里的
+特效方面改进的效果）
+
+----
+
+在北京被照顾得太好了，一直有点上火。其实我最适合的食物大概还是面包和清水吧 
+~~好像是危险发言的样子~~ 。
+
+----
+
+~~最后吼一句：KDE一统江湖，千秋万世！~~
+
+blog:datetime=2012/05/17 20:39:48:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
