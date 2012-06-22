@@ -1,0 +1,43 @@
+%title Higher order functions
+
+
+=Higher order functions=
+
+    Domain and range of funcs and feed funcs to funcs...
+
+==Domain and Range==
+
+Domain :: the set of values the func is defined for.
+Range :: the set of all possible values the function returns
+
+Advice : Always remeber the Domain and Range of your funcs
+
+{{{
+# Multiple assignment
+a, b = 1, 2 # same as a = 1; b = 2
+}}}
+
+function is a first class member of python
+
+==Higher Order Funcs==
+    
+    Functions that can take other functions as
+    arguments are considered higher order functions.
+
+----
+
+Continue June 21
+
+----
+
+==Closures==
+(helper func)
+functions defined inside funcs
+if a local var in closure has the same name as one in the outer func, you can't refer to the one outside.
+==Return funcs==
+==Lambda==
+nameless funcs
+    function as data
+
+blog:datetime=2012/06/21 02:21:18:tags=
+

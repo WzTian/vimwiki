@@ -1,0 +1,59 @@
+%title functions etc
+
+
+=functions etc=
+
+expression :: describes a computation and evaluates to a value.
+two kind of expression :
+primitive :: directly describes their value (2, x , "hello world")
+    operator : add , + ; operand : ....
+evaluation of compound expression :: evaluate the operator and operands
+
+Statements :: executed by the program to perform an action. it can either be a single line(simple) or series of lines (compound)
+(superset of expression)
+
+Compound expression :
+ex: 
+{{{
+<header> :          # <-- statement
+    <statement>     # <--
+    <statement>     #    suite
+    ...
+}}}
+while 
+{{{
+while <boolean exp>:
+    <suite>
+}}}
+if
+{{{
+if <boolean>:
+    <suite>
+elif <boolean>:     #optional
+    <suite>
+....
+else:               #optional
+    <suite>
+}}}
+
+Functions (procedure):
+define functions.
+{{{
+def <function name>(<argument list>):
+    <suite>     # <--body (may include a return statement, where the func return a value and stop
+# without return, it returns None by default
+}}}
+None : a value that represents Nothing
+{{{
+>>> print()  #implied newline
+
+>>> print(None)
+None
+}}}
+None pure functions:
+    pure : not side effects, just gives back a value
+    non-pure : with side effects
+
+
+blog:datetime=2012/06/20 02:23:11:tags=
+

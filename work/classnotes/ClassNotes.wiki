@@ -6,6 +6,7 @@
 - [[Math 1a]]
 - [[Math 55]]
 - [[histart11/HISTART 11|HISTART 11]]
+- [[cs61a/CS61a|CS61a]]
 
 
 [[index|HOME]]   [[Work]]
