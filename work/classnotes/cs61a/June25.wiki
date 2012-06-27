@@ -1,0 +1,49 @@
+%title application of higher order func
+
+
+=application of higher order func=
+
+First class citizens:
+# can be named by variables
+# can be passed as arguments to funcs
+# canbe returned from funcs
+# can be included in data structures
+    
+===lambda===
+{{{
+square = lambda x:x*x
+# equivalent to
+def square(x):
+    return x*x
+}}}
+===applicative order===
+eval operator and then operands,
+then apply 
+==iterative improvement==
+# problem
+# make a guess
+# if guess good enough, take it as the answer, else update the guess and go to 2
+
+===Newton's method===
+{{{
+def iter_improve(update,isclose,guess=1):
+    while not isclose(guess)
+        guess = update(guess)
+    return guess
+
+def approx_deriv(f,x,dx = 0.000000000001):
+    return (f(x+dx)-f(x))/dx
+
+def approx_eq(x,y,tolerance=1e-5):
+    return abs(x-y) < tolerance
+
+def approx_zero(x):
+    return approx_eq(x,0)
+
+def newton_update(x):
+
+
+}}}
+
+blog:datetime=2012/06/25 11:12:39:tags=
+

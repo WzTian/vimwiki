@@ -1,0 +1,35 @@
+%title recursion
+
+
+=recursion=
+
+Recursive function have 2 main pieces:
+# recursive cases (func call itself)
+# base cases, func return a direct answer
+
+{{{
+# this defines multiplication of a and b
+def mul(a,b):
+    if b == 0:
+        return 0
+    if b % 2 == 0:
+        return mul(a+a, b / 2)
+    return mul(a,b-1)+a
+}}}
+
+==tree recursion==
+
+a func calls itself more than once in a call
+
+{{{
+#Example of tree recursion
+def fib(n):
+    if n == 0:
+        return 0
+    elif n == 1:
+        return 1
+    else:
+        retrun fib(n-1) + fib(n-2)
+}}}
+blog:datetime=2012/06/26 11:23:48:tags=
+

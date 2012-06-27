@@ -1,0 +1,70 @@
+%title complexity and orders of growth
+
+
+=complexity and orders of growth=
+- time complexity of funcs
+- recursion review
+
+==algorithm==
+def :: step by step description of how to do A
+
+functions implements algorithms
+
+===Comparision of algorithms===
+# Time it takes
+# step
+# size of code
+# space (mem)
+# precision
+# ease of implementation
+# .....
+
+==Time complexity==
+Idea measure the runtime with *large* inputs
+
+- different computer have different runtime
+- same computer can have different runtime on same input
+- implementation takes time
+- time may be too long
+
+IDEA :: how the worst case runtime of algorithm scale as we scale the input
+    The less the runtime scales as the inputs scales, the better the algorithm
+
+arithmic operations and assignments take constant time  O(1)  (fastest)
+
+{{{
+def fact(n):
+    # code #
+    # using iterative method
+}}}
+
+runtimes scales as the input size , linear time. O(n) 
+{{{
+def sum_fact(n):
+    # addes factorials, calls fact
+}}}
+
+time taken of sum_fact is proportional to
+`1+2+...+n+an+b`
+runtime scales as the square of input size. quatratic time O(n^2)<br>
+the constant and n terms are ignored since they are irrelavent
+for large enough inputs
+
+===Big O notation===
+let f(n) be the runtime of a function it depends on the input size n.
+
+    we can say
+    f(n) belongs to O(g(n))
+    if there are two integers c, N such that for all n>N
+    f(n) < c*g(n)
+
+ex n belongs to O(n^2)
+
+*REMEMBER*:constant factors _do not_ matter.
+
+===Big theta notation===
+f(n) = O(g(n)) g(n) = O(f(n)) ==> f(n) = theta(g(n))
+    Big omega :: lower bound
+
+blog:datetime=2012/06/27 11:21:42:tags=
+
