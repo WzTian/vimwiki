@@ -1,0 +1,43 @@
+%title immutable data structures
+
+=immutable data structures=
+
+==map filter and reduce==
+*map* function
+{{{
+>>> nums = (1,2,3)
+>>> tuple(map(lambda x: x*x, nums))
+(1,4,9)
+}}}
+The output of map is not a tuple, but a "map object", an example of stream
+
+*filter*
+{{{
+>>>nums = (1,2,3)
+>>>tuple(filter(lambda x: x%2==0,nums))
+(2,)
+}}}
+
+*reduce*
+{{{
+>>>from functools import reduce
+>>>nums = (1,2,3,4,5)
+>>>reduce(lambda x, y: x*y, nums,1) # equals ((((1*2)*3)*4)*5)
+120
+}}}
+
+==imutable dictionaries==
+
+dictionary :: associate pieces of data to another piece of data
+
+==generator expressions==
+produces a generator object
+{{{
+>>> tuple(x*x for x in range(4))
+(0,1,4,9)
+>>> tuple(x*x for x in range(4) if x % 2 == 0)
+(0,4)
+}}}
+
+blog:datetime=2012/07/03 11:19:32:tags=
+

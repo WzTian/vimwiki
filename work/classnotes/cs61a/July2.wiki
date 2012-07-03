@@ -1,0 +1,39 @@
+%title imutable lists
+
+
+=imutable lists=
+
+===Review on tuples===
+Sequence :: an ordered collection of data values
+a sequence has a _finite_ length
+<br>a sequence has an element for any non-negative integar less than its length
+{{{
+trip = (1,2,3)
+trip[0]
+#equivalent to
+import operator
+operator.getitem(triplet,0)
+}}}
+{{{
+#map function
+#note that a new tuple is created.
+def map(f,vals):
+    result = ()
+    for i in vals:
+        result = result + (f(i),)
+#(f(i),) is a tuple with one element
+#since (1) == 1, we use (1,) to represent a tuple
+>>> map(square, (1,2,3))
+(1,4,9)
+}}}
+{{{
+>>> tuple(range(0,3))
+(0,1,2)
+# note that range is an object different from tuple
+}}}
+
+*Numbers, Booleans, strings tuples ranges* are all _immutable_
+<br>"modification" => making an new object
+
+blog:datetime=2012/07/02 11:09:10:tags=
+
