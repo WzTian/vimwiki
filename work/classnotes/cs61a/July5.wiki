@@ -1,0 +1,24 @@
+%title immutable trees
+
+
+=immutable trees=
+
+    MT 1 July 9
+    2050 VLSB 7-9pm
+    cheat sheel 8.5*11
+    _lab on monday_
+    *review?*
+
+==deep tuples==
+*tuples that contain tuples*
+
+use _tree recursion_ for operation on deep tuples
+
+==trees==
+_deep tuples cannot store value in the middle_
+a *tree* data structure has 2 parts:
+# a *datum* - the data stored in the top point of the tree
+# some *children* - any three that appears below the point
+
+blog:datetime=2012/07/05 11:11:59:tags=
+
