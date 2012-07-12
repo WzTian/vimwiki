@@ -1,0 +1,21 @@
+%title Itree continues
+
+
+=Itree continues=
+
+==Binary trees==
+Trees where each node has *at most* two children
+
+Binary search trees :: all the items to the left of a node are smaller, and the items to the right are larger.
+
+# discards half the data each time we go down one level
+# worst case: go down to the leaves
+
+the worst case time is related to the length of longest path to a leaf, i.e. the height.
+
+*if there are n nodes in a BST, and if the BST is balanced, the height of the tree is approx log(2)(n)*
+
+So, the runtime to find an item in a *well-balanced* BST with n nodes is O(log(n))
+
+blog:datetime=2012/07/09 11:15:49:tags=
+

@@ -1,0 +1,44 @@
+%title OOP continues
+
+
+=OOP continues=
+
+*Functional programming* :
+<br>key features:
+# composition: functions inputs from, takes, and produces other functions
+# stateless: same output for same input (parallel data processing), need to create new object to update values
+
+*OOP*:
+key features:
+# _objects_ data structure combined with behaviors, has state, can interact.
+
+objects are instances of a class, class describes its objects: a template
+
+objects "has" instance vars
+
+objects can only be created using constructer (`__init__` in class definition)
+
+    double underscore: prefix for a var not to be used outside the class
+    if a var is also postfixed with `__`, its name is not changed
+
+==inheritance==
+{{{
+class WaterPk(Pk):
+    def attack(self,other):
+        other.dec_hp(1)
+#Pk is the superclass, and WaterPk inherits everything from Pk except its own version of attact
+
+class ElecPk(Pk):
+    def __init__(self,name,owner,hp,origin):
+        Pk.__init__(self,name,owner,hp) #!!!
+        self.__origin = origin
+    def attack(self,other):
+        other.dec_hp(10000000000000)
+
+#note: redefine __init__ is also going to override the __init__ for the superclass, making it neccesarry to
+#call superclass' constructer.
+}}}
+
+
+blog:datetime=2012/07/11 11:12:38:tags=
+

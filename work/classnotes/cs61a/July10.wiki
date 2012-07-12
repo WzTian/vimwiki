@@ -1,0 +1,59 @@
+%title OOP
+
+
+=OOP=
+
+define new datatypes using the class syntax
+{{{
+class Account:  # define the new data type account
+    def __init__(self,owner,balance):
+        self.__owner = owner
+        #instance var: only accessed inside the class definition
+        #python changes the var with prefix__ to another name
+        #can be found using dir(<object>), not the same as
+        #private in java
+        #can be changed directly
+        self.__balance = balance
+        # object . attribute
+
+    #methods
+    def get_owner(self):
+        return self.__owner
+    def get_balance(self):
+        return self.__balance
+    # self, refers to the object itself.
+    def withdraw(self,amount):
+        self.__balance -= amount
+    def deposit(self,amount):
+        self.__balance += amount
+    # mutable objects
+}}}
+Examples:
+{{{
+>>> toms_account = Account("Tom",50) #instantiation
+>>> toms_account
+<__main__.Account object at "address">
+>>> type(toms_account)
+<class '__main__.Account'>
+>>> Account.get_balance(toms_account)
+50
+>>> toms_account.get_balance()
+50
+}}}
+
+The dot notation allows us to call an object's associated methods
+
+*A NEW PARADIGM*
+
+==functional programing==
+- think of program as a series of functions.
+- think in terms of inputs and outputs of each function.
+- there is no change over time, no *state*
+
+==oop==
+- think of programs as a series of objects
+- think in terms of the ways in which objects interact with each other using methods.
+- Objects can change over time in program. They have *state*.
+
+blog:datetime=2012/07/10 11:18:01:tags=
+

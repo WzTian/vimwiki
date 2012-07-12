@@ -1,9 +1,14 @@
-[[June19]]
-[[June20]]
-[[June25]]
-[[June26]]
-[[June27]]
-[[July2]]
-[[July3]]
-[[July5]]
+=CS 61A=
+
+- [[June19]]
+- [[June20]]
+- [[June25]]
+- [[June26]]
+- [[June27]]
+- [[July2]]
+- [[July3]]
+- [[July5]]
+- [[July9]]
+- [[July10]]
+- [[July11]]
 
