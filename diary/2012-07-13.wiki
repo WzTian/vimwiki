@@ -1,0 +1,65 @@
+%title CS Project: tweets 情绪分析
+
+
+=CS Project: tweets 情绪分析=
+
+虽然只是一个普通的project，但是因为成果有点观赏性和娱乐性，还是发上来了。
+
+这个项目是从170万条去年的tweet里寻找含有特定关键词的，用某些关键字进行情绪分析，最后采用
+图示的方式展现出美国各州对这个关键词的情绪。废话不多说了，上图（红色为积极，蓝色为消极，中间我色盲分不清楚……）：
+
+先是两个控制组：
+
+good:
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566075340/" title="good by koffeecup, on Flickr"><img src="http://farm8.staticflickr.com/7279/7566075340_0090afe047_z.jpg" width="640" height="373" alt="good"></a>
+
+bad:
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566074608/" title="bad by koffeecup, on Flickr"><img src="http://farm9.staticflickr.com/8005/7566074608_ac0f917d55_z.jpg" width="640" height="373" alt="bad"></a>
+
+以下鼠标移至图片上即可看到对应单词：
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566075944/" title="love by koffeecup, on Flickr"><img src="http://farm9.staticflickr.com/8150/7566075944_dcabbec32c_z.jpg" width="640" height="373" alt="love"></a>
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566075150/" title="hate by koffeecup, on Flickr"><img src="http://farm9.staticflickr.com/8156/7566075150_c2690ee43b_z.jpg" width="640" height="373" alt="hate"></a>
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566075506/" title="life by koffeecup, on Flickr"><img src="http://farm9.staticflickr.com/8147/7566075506_3a32f1f34d_z.jpg" width="640" height="373" alt="life"></a>
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566074860/" title="dead by koffeecup, on Flickr"><img src="http://farm9.staticflickr.com/8427/7566074860_7cc0a537dc_z.jpg" width="640" height="373" alt="dead"></a>
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566074474/" title="death by koffeecup, on Flickr"><img src="http://farm9.staticflickr.com/8012/7566074474_7ab54e586d_z.jpg" width="640" height="373" alt="death"></a>
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566075016/" title="god by koffeecup, on Flickr"><img src="http://farm9.staticflickr.com/8287/7566075016_6279ff5645_z.jpg" width="640" height="373" alt="god"></a>
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566075742/" title="linux by koffeecup, on Flickr"><img src="http://farm9.staticflickr.com/8290/7566075742_b9ef8ef95c_z.jpg" width="640" height="334" alt="linux"></a>
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566076600/" title="unix by koffeecup, on Flickr"><img src="http://farm8.staticflickr.com/7277/7566076600_10b63f30d9_z.jpg" width="640" height="373" alt="unix"></a>
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566074346/" title="windows by koffeecup, on Flickr"><img src="http://farm8.staticflickr.com/7128/7566074346_74628d6d02_z.jpg" width="640" height="334" alt="windows"></a>
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566076448/" title="sex by koffeecup, on Flickr"><img src="http://farm8.staticflickr.com/7116/7566076448_7f7752182a_z.jpg" width="640" height="373" alt="sex"></a>
+
+<a href="http://www.flickr.com/photos/twzh_ly01/7566076300/" title="physics by koffeecup, on Flickr"><img src="http://farm9.staticflickr.com/8011/7566076300_e0f48f18b8_z.jpg" width="640" height="373" alt="physics"></a>
+
+这个是官方示例：
+<a href="http://www.flickr.com/photos/twzh_ly01/7566076140/" title="obama by koffeecup, on Flickr"><img src="http://farm9.staticflickr.com/8152/7566076140_393dfe8a3f_z.jpg" width="640" height="373" alt="obama"></a>
+
+china:
+<a href="http://www.flickr.com/photos/twzh_ly01/7566074726/" title="china by koffeecup, on Flickr"><img src="http://farm9.staticflickr.com/8009/7566074726_384d780c4c_z.jpg" width="640" height="373" alt="china"></a>
+~~嘛，倒也不意外~~
+
+blog:datetime=2012/07/13 21:42:32:tags=
+
+[[../index|HOME]]   [[diary|Diary]]
+
+<div id="disqus_thread"></div>
+<script type="text/javascript" src="comment.js">
+</script>
+<noscript>Please enable !JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<script type="text/javascript" src="count.js">
+</script>
+
+
+
