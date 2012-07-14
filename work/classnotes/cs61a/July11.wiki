@@ -22,6 +22,7 @@ objects can only be created using constructer (`__init__` in class definition)
     if a var is also postfixed with `__`, its name is not changed
 
 ==inheritance==
+classes inherit methods and instance vars from other classes
 {{{
 class WaterPk(Pk):
     def attack(self,other):

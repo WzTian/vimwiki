@@ -1,0 +1,49 @@
+%title OOP & Mutable data structure
+
+
+=OOP & Mutable data structure=
+the property decorator:
+{{{
+class Pk:
+    ...
+    @property
+    def complete_name(self): #note this takes only self
+        return self.owner + "'s " + self.name
+
+>>> ashs_pikachu.complete_name
+'Ash's Pikachu'
+}}}
+useful when the property is rarely used.
+
+==polymorphism==
+
+{{{
+class Pk:
+    ...
+    def attack_all(self,others):
+        for other in others:
+            self.attack(other)
+# attack works on WaterPk, ElectricPk and others
+# hence it is polymorphic
+# other can be an object of any other class with dec_hp()
+}}}
+Plus operator
+{{{
+>>> 3+4
+7
+>>> "h" + " h"
+"h h"
+# + is polymorphic
+}}}
+===How does + work?===
+*EVERYTHING* in python is an object.
+
+every other class is subclass of `object` class.
+
+python converts `a + b` to `(a).__add__(b)`.
+
+so + works for all classes that have a `__add__` method.<br>
+similarly > works for all classes that have a `__gt__` method ...
+
+blog:datetime=2012/07/12 11:24:58:tags=
+
