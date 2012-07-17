@@ -1,0 +1,23 @@
+%title Mutable data structure
+
+
+=Mutable data structure=
+
+*objects, lists, dictionaries*
+
+==Class methods==
+use the staticmethod decorator:
+{{{
+class Pokemon:
+    ...
+    trainer_dir = {}
+    ...
+    @staticmethod
+    def trainers(name):
+        if name in Pokemon.trainer_dir:
+            return Pokemon.trainer_dir[name]
+        return None
+}}}
+
+blog:datetime=2012/07/16 11:12:22:tags=
+
