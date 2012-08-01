@@ -1,0 +1,25 @@
+%title Intepretation
+
+
+=Intepretation=
+
+intepreter for a programming language is a _function_ that takes an expression and apply the instructions
+
+it *read* the input, *eval* the exp, and *print* the result(REPL)
+
+==Example:Calc==
+two type of expressions:
+- primitive exp (num)
+- call exp (like add(2,3))
+four operators:
+- add
+- sum
+- mul
+- div
+
+==Example:Py==
+Eval: finds the value of an expression using its corresponding expression tree
+(not always true for python)
+
+blog:datetime=2012/07/25 11:08:17:tags=
+

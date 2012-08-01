@@ -1,0 +1,38 @@
+%title lazy eval and stream
+
+
+=lazy eval and stream=
+
+Lazy Evaluation :: expressions are only evaled when its needed (like haskell)
+(python is *eager*)
+{{{
+def is_better(a,b,a_be_fn,b_be_fn):
+    if a>b:
+        return a_be_fn()
+    return b_be_fn()
+#a workaround to achieve laziness
+>>> is_better(22,1,lambda:fib(1),lambda:fib(1000000))
+}}}
+
+Sequence :: *ordered* collection of data values
+Finite or infinite(math sequence, internet traffic,real time data)
+
+====Representing infinite sequence with finit mem====
+idea: only constructs the part of sequence that is needed
+
+streams: lazily computed recursive lists that represents (infinite) sequences
+
+a stream is a pair (first ele, rest(how to complete rest of string))
+
+==iterators==
+
+lazily evaled
+
+two methods:
+`__iter__`(returns an interator object) and `__next__`(returns a val, and raise a StopIteration at the end, and on all subsequent calls)
+
+==other lazy objs==
+map , filter, range
+
+blog:datetime=2012/07/30 11:29:53:tags=
+

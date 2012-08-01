@@ -1,0 +1,14 @@
+%title environments
+
+
+=environments=
+
+*environment model of computation*
+
+substitution doesn't work for functions using mutable objects
+
+*SEE lec17.pdf*
+
+
+blog:datetime=2012/07/17 11:22:38:tags=
+

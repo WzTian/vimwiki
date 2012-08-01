@@ -1,0 +1,18 @@
+%title Delayed Sequences
+
+
+=Delayed Sequences=
+
+==Generators==
+(used in the same places as iterators)
+`yield` keyword: gives back a value. next time continues from the place it left off
+
+example:
+{{{
+def ones():
+    while True:
+        yield 1
+}}}
+
+blog:datetime=2012/07/31 11:18:26:tags=
+
